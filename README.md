@@ -3066,7 +3066,7 @@ Bioinorganic Chemistry: A Short Course</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(114).pdf" style="text-decoration:none;">Ace General Chemistry I and II: The Easy Guide to Ace General Chemistry I and II</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(115).pdf" style="text-decoration:none;">Concise Physical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(116).pdf" style="text-decoration:none;"Instant Notes: Analytical Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(116).pdf" style="text-decoration:none;">Instant Notes: Analytical Chemistry</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(117).pdf" style="text-decoration:none;">Fundamentals of Heterocyclic Chemistry: Importance in Nature and in the Synthesis of Pharmaceuticals</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(118).pdf" style="text-decoration:none;">Quantities, Units and Symbols in Physical Chemistry</a></li>                              
