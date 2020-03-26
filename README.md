@@ -240,7 +240,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(23).pdf" style="text-decoration:none;">XII Chemistry Study Material</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(24).pdf" style="text-decoration:none;">Environmental Monitoring and Characterization</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(25).pdf" style="text-decoration:none;"Quantum Chemistry and molecular interactions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(25).pdf" style="text-decoration:none;">Quantum Chemistry and molecular interactions</a></li>
 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(26).pdf" style="text-decoration:none;">Introduction to Colloid and Surface Chemistry</a></li>
