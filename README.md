@@ -112,3 +112,82 @@
 </ul>
 </li>
 </ul>
+<h2><span id="Chemicals" class="mw-headline">Chemicals</span></h2>
+<ul>
+<li><a class="mw-redirect" title="Dictionary of chemical formulas" href="https://en.wikipedia.org/wiki/Dictionary_of_chemical_formulas">Dictionary of chemical formulas</a></li>
+<li><a title="List of biomolecules" href="https://en.wikipedia.org/wiki/List_of_biomolecules">List of biomolecules</a></li>
+<li><a title="List of inorganic compounds" href="https://en.wikipedia.org/wiki/List_of_inorganic_compounds">List of inorganic compounds</a></li>
+<li><a title="Periodic table" href="https://en.wikipedia.org/wiki/Periodic_table">Periodic table</a></li>
+</ul>
+<h2><span id="Atomic_Theory" class="mw-headline">Atomic Theory</span></h2>
+<p><a title="Atomic theory" href="https://en.wikipedia.org/wiki/Atomic_theory">Atomic theory</a></p>
+<ul>
+<li>Atomic models
+<ul>
+<li><a title="Atomism" href="https://en.wikipedia.org/wiki/Atomism">Atomism</a>&nbsp;&ndash; Natural philosophy that theorizes that the world is composed of indivisible pieces.</li>
+<li><a title="Plum pudding model" href="https://en.wikipedia.org/wiki/Plum_pudding_model">Plum pudding model</a></li>
+<li><a title="Rutherford model" href="https://en.wikipedia.org/wiki/Rutherford_model">Rutherford model</a></li>
+<li><a title="Bohr model" href="https://en.wikipedia.org/wiki/Bohr_model">Bohr model</a></li>
+</ul>
+</li>
+</ul>
+<h2><span id="Thermochemistry" class="mw-headline">Thermochemistry</span></h2>
+<p><a title="Thermochemistry" href="https://en.wikipedia.org/wiki/Thermochemistry">Thermochemistry</a></p>
+<h3><span id="Terminology" class="mw-headline">Terminology</span></h3>
+<ul>
+<li>Thermochemistry &ndash;</li>
+<li><a title="Chemical kinetics" href="https://en.wikipedia.org/wiki/Chemical_kinetics">Chemical kinetics</a>&nbsp;&ndash; the study of the rates of chemical reactions and investigates how different experimental conditions can influence the speed of a chemical reaction and yield information about the reaction's mechanism and transition states, as well as the construction of mathematical models that can describe the characteristics of a chemical reaction.</li>
+<li>Exothermic &ndash;a process or reaction in which the system release energy to its surroundings in the form of heat. They are denoted by negative heat flow.</li>
+<li>Endothermic &ndash;a process or reaction in which the system absorbs energy from its surroundings in the form of heat. They are denoted by positive heat flow.</li>
+<li>Thermochemical equation &ndash;</li>
+<li><a class="mw-redirect" title="Enthalpy change" href="https://en.wikipedia.org/wiki/Enthalpy_change">Enthalpy change</a>&nbsp;&ndash; internal energy of a system plus the product of pressure and volume. Its change in a system is equal to the heat brought to the system at constant pressure.</li>
+<li><a class="mw-redirect" title="Enthalpy of reaction" href="https://en.wikipedia.org/wiki/Enthalpy_of_reaction">Enthalpy of reaction</a>&nbsp;&ndash;</li>
+<li><a title="Temperature" href="https://en.wikipedia.org/wiki/Temperature">Temperature</a>&nbsp;&ndash; an objective comparative measure of heat.</li>
+<li><a title="Calorimeter" href="https://en.wikipedia.org/wiki/Calorimeter">Calorimeter</a>&nbsp;&ndash; an object used for calorimetry, or the process of measuring the heat of chemical reactions or physical changes as well as heat capacity.</li>
+<li>Heat &ndash; A form of energy associated with the kinetic energy of atoms or molecules and capable of being transmitted through solid and fluid media by conduction, through fluid media by convection, and through empty space by radiation.&nbsp;</li>
+<li><a title="Joule" href="https://en.wikipedia.org/wiki/Joule">Joule</a>&nbsp;&ndash; a unit of energy.</li>
+<li><a title="Calorie" href="https://en.wikipedia.org/wiki/Calorie">Calorie</a>&nbsp;&ndash;</li>
+<li><a class="mw-redirect" title="Specific heat" href="https://en.wikipedia.org/wiki/Specific_heat">Specific heat</a>&nbsp;&ndash;</li>
+<li><a title="Specific heat capacity" href="https://en.wikipedia.org/wiki/Specific_heat_capacity">Specific heat capacity</a>&nbsp;&ndash;</li>
+<li><a title="Latent heat" href="https://en.wikipedia.org/wiki/Latent_heat">Latent heat</a>&nbsp;&ndash;</li>
+<li><a class="mw-redirect" title="Heat of fusion" href="https://en.wikipedia.org/wiki/Heat_of_fusion">Heat of fusion</a>&nbsp;&ndash;</li>
+<li><a class="mw-redirect" title="Heat of vaporization" href="https://en.wikipedia.org/wiki/Heat_of_vaporization">Heat of vaporization</a>&nbsp;&ndash;</li>
+<li><a title="Collision theory" href="https://en.wikipedia.org/wiki/Collision_theory">Collision theory</a>&nbsp;&ndash;</li>
+<li><a title="Activation energy" href="https://en.wikipedia.org/wiki/Activation_energy">Activation energy</a>&nbsp;&ndash;</li>
+<li><a title="Activated complex" href="https://en.wikipedia.org/wiki/Activated_complex">Activated complex</a>&nbsp;&ndash;</li>
+<li><a title="Reaction rate" href="https://en.wikipedia.org/wiki/Reaction_rate">Reaction rate</a>&nbsp;&ndash;</li>
+<li><a class="mw-redirect" title="Catalyst" href="https://en.wikipedia.org/wiki/Catalyst">Catalyst</a>&nbsp;&ndash;</li>
+</ul>
+<h3><span id="Thermochemical_Equations" class="mw-headline">Thermochemical Equations</span></h3>
+<ul>
+<li>Chemical equations that include the&nbsp;<strong>heat</strong>&nbsp;involved in a reaction, either on the reactant side or the product side.</li>
+<li>Examples:
+<ul>
+<li>H<sub>2</sub>O(l) + 240kJ &rarr; H<sub>2</sub>O(g)</li>
+<li>N<sub>2</sub>&nbsp;+ 3H<sub>2</sub>&nbsp;&rarr; 2NH<sub>3</sub>&nbsp;+ 92kJ</li>
+</ul>
+</li>
+<li><a title="Joule" href="https://en.wikipedia.org/wiki/Joule">Joule</a>&nbsp;(J) &ndash;</li>
+</ul>
+<h3>&nbsp;</h3>
+<h2><span id="Chemists" class="mw-headline">Chemists</span></h2>
+<ul>
+<li><a title="Elias James Corey" href="https://en.wikipedia.org/wiki/Elias_James_Corey">Elias James Corey</a></li>
+<li><a title="Marie Curie" href="https://en.wikipedia.org/wiki/Marie_Curie">Marie Curie</a></li>
+<li><a title="John Dalton" href="https://en.wikipedia.org/wiki/John_Dalton">John Dalton</a></li>
+<li><a title="Humphry Davy" href="https://en.wikipedia.org/wiki/Humphry_Davy">Humphry Davy</a></li>
+<li><a class="mw-redirect" title="Eleuth&egrave;re Ir&eacute;n&eacute;e du Pont" href="https://en.wikipedia.org/wiki/Eleuth%C3%A8re_Ir%C3%A9n%C3%A9e_du_Pont">Eleuth&egrave;re Ir&eacute;n&eacute;e du Pont</a></li>
+<li><a title="George Eastman" href="https://en.wikipedia.org/wiki/George_Eastman">George Eastman</a></li>
+<li><a title="Michael Faraday" href="https://en.wikipedia.org/wiki/Michael_Faraday">Michael Faraday</a></li>
+<li><a class="mw-redirect" title="Dmitriy Mendeleyev" href="https://en.wikipedia.org/wiki/Dmitriy_Mendeleyev">Dmitriy Mendeleyev</a></li>
+<li><a title="Alfred Nobel" href="https://en.wikipedia.org/wiki/Alfred_Nobel">Alfred Nobel</a></li>
+<li><a title="Wilhelm Ostwald" href="https://en.wikipedia.org/wiki/Wilhelm_Ostwald">Wilhelm Ostwald</a></li>
+<li><a title="Louis Pasteur" href="https://en.wikipedia.org/wiki/Louis_Pasteur">Louis Pasteur</a></li>
+<li><a title="Linus Pauling" href="https://en.wikipedia.org/wiki/Linus_Pauling">Linus Pauling</a></li>
+<li><a title="Joseph Priestley" href="https://en.wikipedia.org/wiki/Joseph_Priestley">Joseph Priestley</a></li>
+<li><a title="Karl Ziegler" href="https://en.wikipedia.org/wiki/Karl_Ziegler">Karl Ziegler</a></li>
+<li><a title="Ahmed Zewail" href="https://en.wikipedia.org/wiki/Ahmed_Zewail">Ahmed Zewail</a></li>
+<li><a title="Robert Burns Woodward" href="https://en.wikipedia.org/wiki/Robert_Burns_Woodward">Robert Burns Woodward</a></li>
+<li><a title="Rosalind Franklin" href="https://en.wikipedia.org/wiki/Rosalind_Franklin">Rosalind Franklin</a></li>
+<li><a title="Amedeo Avogadro" href="https://en.wikipedia.org/wiki/Amedeo_Avogadro">Amedeo Avogadro</a></li>
+</ul>
