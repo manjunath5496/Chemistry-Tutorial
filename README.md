@@ -346,13 +346,13 @@ Bioinorganic Chemistry: A Short Course</a></li>
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(90).pdf" style="text-decoration:none;">Medicinal Chemistry of Bioactive Natural Products</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(91).pdf" style="text-decoration:none;">Schaum's Outline of Theory and Problems of Applied Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(91).pdf" style="text-decoration:none;">Advances in Inorganic Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(92).pdf" style="text-decoration:none;">Group Theory In Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(93).pdf" style="text-decoration:none;">Physics for the IB Diploma</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(92).pdf" style="text-decoration:none;">Cambridge IGCSE Chemistry (0620) Past and specimen paper questions and answers</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(93).pdf" style="text-decoration:none;">Advanced Topics in Forensic DNA Typing: Methodology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(94).rar" style="text-decoration:none;">Glencoe Physics: Principles and Problems</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(95).pdf" style="text-decoration:none;">A Universe from Nothing: Why There Is Something Rather than Nothing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(94).pdf" style="text-decoration:none;">The Chemistry of Natural Products: Main Lectures Presented at the Fourth International Symposium on the Chemistry of Natural Products Held in Stockholm</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(95).pdf" style="text-decoration:none;">Schaum's Outline of Theory and Problems of Beginning Chemistry</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(96).pdf" style="text-decoration:none;"> A Briefer History of Time</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(97).pdf" style="text-decoration:none;">Atom: An Odyssey from the Big Bang to Life on Earth ... and Beyond</a></li>
