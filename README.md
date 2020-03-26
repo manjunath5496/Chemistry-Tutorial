@@ -200,12 +200,12 @@
 <ul>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(1).rar" style="text-decoration:none;">Cracking the SAT Physics Subject Test</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(1).pdf" style="text-decoration:none;">Organic Chemistry II for JEE Main and Advanced</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(2).pdf" style="text-decoration:none;">Understanding Physics: Electricity and Magnetism For JEE Main and Advanced</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(2).pdf" style="text-decoration:none;">Quantum Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(3).pdf" style="text-decoration:none;">Principles of Physics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(4).pdf" style="text-decoration:none;">Fundamentals of Physics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(3).pdf" style="text-decoration:none;">Solution Manual - Advanced Problems in Organic Chemistry for JEE</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(4).pdf" style="text-decoration:none;">Vogel's Textbook of Practical Organic Chemistry</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(5).pdf" style="text-decoration:none;">Modern Physics</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(6).pdf" style="text-decoration:none;">CPO Focus on Physical Science</a></li>
