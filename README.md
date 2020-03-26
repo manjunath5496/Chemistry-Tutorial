@@ -3075,14 +3075,14 @@ Bioinorganic Chemistry: A Short Course</a></li>
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(121).pdf" style="text-decoration:none;"> Pharmaceutical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(122).pdf" style="text-decoration:none;">The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(123).pdf" style="text-decoration:none;">The Fabric of the Cosmos: Space, Time, and the Texture of Reality</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(122).rar" style="text-decoration:none;">Heterocyclic Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(123).rar" style="text-decoration:none;">Functional Food and Health</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(124).pdf" style="text-decoration:none;">The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(125).pdf" style="text-decoration:none;">The Grand Design</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(126).pdf" style="text-decoration:none;">The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(124).rar" style="text-decoration:none;">March's Advanced Organic Chemistry: Reactions, Mechanisms, and Structure</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(125).rar" style="text-decoration:none;">Advanced Problems in Physical Chemistry for Competitive Examinations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(126).rar" style="text-decoration:none;">Physical Chemistry (Gilbert W. Castellan) </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(127).pdf" style="text-decoration:none;">The Nature of Space and Time</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(127).rar" style="text-decoration:none;">Wilson and Gisvold's Textbook of Organic Medicinal and Pharmaceutical Chemistry</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(128).pdf" style="text-decoration:none;">The Quantum Moment: How Planck, Bohr, Einstein, and Heisenberg Taught Us to Love Uncertainty</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(129).pdf" style="text-decoration:none;">The Road to Reality: A Complete Guide to the Laws of the Universe </a></li>
 
