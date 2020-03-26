@@ -354,25 +354,25 @@ Bioinorganic Chemistry: A Short Course</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(94).pdf" style="text-decoration:none;">The Chemistry of Natural Products: Main Lectures Presented at the Fourth International Symposium on the Chemistry of Natural Products Held in Stockholm</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(95).pdf" style="text-decoration:none;">Schaum's Outline of Theory and Problems of Beginning Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(96).pdf" style="text-decoration:none;"> A Briefer History of Time</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(97).pdf" style="text-decoration:none;">Atom: An Odyssey from the Big Bang to Life on Earth ... and Beyond</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(96).pdf" style="text-decoration:none;"> Solutions Manual to Accompany Inorganic Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(97).pdf" style="text-decoration:none;">Solving Problems: A Chemistry Handbook</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(98).pdf" style="text-decoration:none;">Atomic Theory And The Description Of Nature</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(99).pdf" style="text-decoration:none;">Black Holes and Baby Universes and Other Essays</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(98).pdf" style="text-decoration:none;">Organic Chemistry II For Dummies</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(99).pdf" style="text-decoration:none;">A Dictionary of Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(100).pdf" style="text-decoration:none;">Black Holes and Time Warps – Einstein's Outrageous Legacy</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(101).pdf" style="text-decoration:none;">Einstein and the Quantum: The Quest of the Valiant Swabian</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(100).pdf" style="text-decoration:none;"> Essentials of Inorganic Chemistry: For Students of Pharmacy, Pharmaceutical Sciences and Medicinal Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(101).pdf" style="text-decoration:none;">Organic Chemistry of Explosives</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(102).pdf" style="text-decoration:none;">Einstein's Cosmos: How Albert Einstein's Vision Transformed Our Understanding of Space and Time</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(103).pdf" style="text-decoration:none;">Einstein's Dice and Schrödinger's Cat</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(102).pdf" style="text-decoration:none;">Nomenclature of Inorganic Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(103).pdf" style="text-decoration:none;">Polymer Chemistry: A Practical Approach</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(104).pdf" style="text-decoration:none;">Einstein's Miraculous Year: Five Papers That Changed the Face of Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(105).pdf" style="text-decoration:none;">Fear of Physics: A Guide for the Perplexed</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(104).pdf" style="text-decoration:none;">Fundamentals of Medicinal Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(105).pdf" style="text-decoration:none;">Textbook of medicinal chemistry Volume 1</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(106).pdf" style="text-decoration:none;">God's Equation: Einstein, Relativity, and the Expanding Universe</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(107).pdf" style="text-decoration:none;">Hawking on the Big Bang and Black Holes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(106).pdf" style="text-decoration:none;">ISC Practical Chemistry Volume 1 for Class XI</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(107).pdf" style="text-decoration:none;">The Basics of Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(108).pdf" style="text-decoration:none;">Hiding in the Mirror: The Quest for Alternate Realities, from Plato to String Theory (by way of Alicei n Wonderland, Einstein, and The Twilight Zone)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(108).pdf" style="text-decoration:none;">Most Likely Question Bank for Chemistry ICSE class 10</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(109).pdf" style="text-decoration:none;">How to Think Like Einstein: Simple Ways to Break the Rules and Discover Your Hidden Genius</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(110).pdf" style="text-decoration:none;">Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, And The Tenth Dimension</a></li>
