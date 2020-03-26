@@ -6,7 +6,6 @@
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Summary_of_chemistry"><span class="toctext">Summary of chemistry</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Branches_of_chemistry"><span class="toctext">Branches of chemistry</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#History_of_chemistry"><span class="toctext">History of chemistry</span></a></li>
 <li class="toclevel-1 tocsection-4"><a href="#Chemicals"><span class="toctext">Chemicals</span></a></li>
 <li class="toclevel-1 tocsection-5"><a href="#Atomic_Theory"><span class="toctext">Atomic Theory</span></a></li>
 <li class="toclevel-1 tocsection-6"><a href="#Thermochemistry"><span class="toctext">Thermochemistry</span></a></li>
