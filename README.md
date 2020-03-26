@@ -307,45 +307,45 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(67).pdf" style="text-decoration:none;">
 Bioinorganic Chemistry: A Short Course</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(68).pdf" style="text-decoration:none;">Aptitude Test Problems in Physics Science for Everyone</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(68).pdf" style="text-decoration:none;">Concise Inorganic Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(69).pdf" style="text-decoration:none;">Physics through the 1990s: Gravitation, cosmology and cosmic-ray physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(69).pdf" style="text-decoration:none;">Solutions Manual for Mathematics for Physical Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(70).pdf" style="text-decoration:none;">Electricity, Magnetism And Modern Physics (Course Guide)</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(71).pdf" style="text-decoration:none;">Metallic Materials: Physical, Mechanical, and Corrosion Properties</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(70).pdf" style="text-decoration:none;">Encyclopedia of Chemistry </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(71).pdf" style="text-decoration:none;">Essentials of Pharmaceutical Chemistry</a></li>
 
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(72).pdf" style="text-decoration:none;">Problems and Solutions on Atomic, Nuclear and Particle Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(73).pdf" style="text-decoration:none;">For the Love of Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(73).pdf" style="text-decoration:none;">Chemistry Workbook For Dummies</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(74).pdf" style="text-decoration:none;">Solid-State Physics for Electronics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(75).pdf" style="text-decoration:none;">Statistical Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(74).pdf" style="text-decoration:none;">Oxidation and Antioxidants in Organic Chemistry and Biology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(75).pdf" style="text-decoration:none;">Essentials of Organic Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(76).pdf" style="text-decoration:none;">Introduction to Cosmology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(76).pdf" style="text-decoration:none;">The Organometallic Chemistry of the Transition Metals</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(77).pdf" style="text-decoration:none;">Physics Laboratory Manual</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(78).pdf" style="text-decoration:none;">The Poetry of Physics and The Physics of Poetry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(77).pdf" style="text-decoration:none;">Environmental Pollution and Control</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(78).pdf" style="text-decoration:none;">CHEMISTRY Experiments for Children</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(79).pdf" style="text-decoration:none;">Introduction to the Basic Concepts of Modern Physics Special Relativity, Quantum and Statistical Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(80).pdf" style="text-decoration:none;">Review Problems for Introductory Physics 2</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(79).pdf" style="text-decoration:none;">Essentials of Computational Chemistry: Theories and Models</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(80).pdf" style="text-decoration:none;">Basic Chemistry: Concepts and Exercises</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(81).pdf" style="text-decoration:none;">Problems and Solutions for Statistical Physics of Particles</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(82).pdf" style="text-decoration:none;">Fundamentals of Nuclear Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(81).pdf" style="text-decoration:none;">Principles and Practice of Analytical Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(82).pdf" style="text-decoration:none;">The Chemistry Maths Book</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(83).pdf" style="text-decoration:none;">Mathematical Principles of Theoretical Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(84).pdf" style="text-decoration:none;">The Visual Dictionary of Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(83).pdf" style="text-decoration:none;">Fundamental Chemistry for O Level Teaching Guide</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(84).pdf" style="text-decoration:none;">Amino Acids, Peptides and Proteins in Organic Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(85).pdf" style="text-decoration:none;">Radiation Physics for Medical Physicists</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(85).pdf" style="text-decoration:none;">Instant Notes: Inorganic Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(86).pdf" style="text-decoration:none;">Computational Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(87).pdf" style="text-decoration:none;">Mathematical Analysis of Physical Problems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(86).pdf" style="text-decoration:none;">Laboratory Manual for General Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(87).pdf" style="text-decoration:none;">An Introduction to Environmental Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(88).rar" style="text-decoration:none;">The Physical World: An Inspirational Tour of Fundamental Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(89).pdf" style="text-decoration:none;">Science for Ninth Class (Part – 1) Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(88).pdf" style="text-decoration:none;">Inorganic and Applied Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(89).pdf" style="text-decoration:none;">Food Lipids: Chemistry, Nutrition, and Biotechnology</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(90).pdf" style="text-decoration:none;">AP Physics 2 – Practice Workbook – Book 2: Electricity, Magnetism, Fluids, Thermodynamics, Optics and Modern Physics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(90).pdf" style="text-decoration:none;">Medicinal Chemistry of Bioactive Natural Products</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(91).pdf" style="text-decoration:none;">Schaum's Outline of Theory and Problems of Applied Physics</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(92).pdf" style="text-decoration:none;">Group Theory In Physics</a></li>                              
