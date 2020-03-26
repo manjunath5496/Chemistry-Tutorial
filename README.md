@@ -3083,11 +3083,11 @@ Bioinorganic Chemistry: A Short Course</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(126).rar" style="text-decoration:none;">Physical Chemistry (Gilbert W. Castellan) </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(127).rar" style="text-decoration:none;">Wilson and Gisvold's Textbook of Organic Medicinal and Pharmaceutical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(128).pdf" style="text-decoration:none;">The Quantum Moment: How Planck, Bohr, Einstein, and Heisenberg Taught Us to Love Uncertainty</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(129).pdf" style="text-decoration:none;">The Road to Reality: A Complete Guide to the Laws of the Universe </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(128).pdf" style="text-decoration:none;">Elements of Physical Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(129).pdf" style="text-decoration:none;">Handbook of Industrial Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(130).pdf" style="text-decoration:none;">The Theory of Everything</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(131).pdf" style="text-decoration:none;">The Ultimate Quotable Einstein </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(130).pdf" style="text-decoration:none;">Shriver and Atkins Inorganic Chemistry </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(131).pdf" style="text-decoration:none;">The Science of Cooking: Understanding the Biology and Chemistry Behind Food and Cooking </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(132).pdf" style="text-decoration:none;">The Universe in a Nutshell</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(133).pdf" style="text-decoration:none;">The World As I See It</a></li>
