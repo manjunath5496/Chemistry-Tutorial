@@ -3056,26 +3056,25 @@ Bioinorganic Chemistry: A Short Course</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(108).pdf" style="text-decoration:none;">Most Likely Question Bank for Chemistry ICSE class 10</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(109).pdf" style="text-decoration:none;">How to Think Like Einstein: Simple Ways to Break the Rules and Discover Your Hidden Genius</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(110).pdf" style="text-decoration:none;">Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, And The Tenth Dimension</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(111).pdf" style="text-decoration:none;">The large scale structure of space-time</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(109).pdf" style="text-decoration:none;">The Organic Chemistry of Drug Synthesis</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(110).pdf" style="text-decoration:none;">CliffsAP Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(111).pdf" style="text-decoration:none;">Statistics and Chemometrics for Analytical Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(112).pdf" style="text-decoration:none;">Moonwalking with Einstein</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(113).pdf" style="text-decoration:none;">Parallel Worlds: A journey through creation, higher dimensions, and the future of the cosmos</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(112).pdf" style="text-decoration:none;">Experiments in General Chemistry Featuring MeasureNet</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(113).pdf" style="text-decoration:none;">Physical Chemistry in Brief</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(114).pdf" style="text-decoration:none;">Quantum Field Theory: A Modern Introduction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(114).pdf" style="text-decoration:none;">Ace General Chemistry I and II: The Easy Guide to Ace General Chemistry I and II</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(115).pdf" style="text-decoration:none;">Quantum man: Richard Feynman's life in science</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(116).pdf" style="text-decoration:none;">Quantum: Einstein, Bohr, and the Great Debate about the Nature of Reality</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(117).pdf" style="text-decoration:none;">Relativity: The Special and General Theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(115).pdf" style="text-decoration:none;">Concise Physical Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(116).pdf" style="text-decoration:none;"Instant Notes: Analytical Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(117).pdf" style="text-decoration:none;">Fundamentals of Heterocyclic Chemistry: Importance in Nature and in the Synthesis of Pharmaceuticals</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(118).pdf" style="text-decoration:none;">Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(119).pdf" style="text-decoration:none;">A Brief History of Time</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(120).pdf" style="text-decoration:none;">The Born Einstein Letters </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(118).pdf" style="text-decoration:none;">Quantities, Units and Symbols in Physical Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(119).pdf" style="text-decoration:none;">Eat Right for Your Metabolism: The Individualized Diet Plan to Balance Body Chemistry, Lose Weight, and Prevent Disease </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(120).pdf" style="text-decoration:none;">Chemistry Essentials For Dummies </a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(121).pdf" style="text-decoration:none;">
-The Collected Papers of Albert Einstein, Vol.11</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(121).pdf" style="text-decoration:none;"> Pharmaceutical Chemistry</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(122).pdf" style="text-decoration:none;">The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(123).pdf" style="text-decoration:none;">The Fabric of the Cosmos: Space, Time, and the Texture of Reality</a></li>
 
