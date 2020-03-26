@@ -204,109 +204,109 @@
                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(2).pdf" style="text-decoration:none;">Quantum Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(3).pdf" style="text-decoration:none;">Solution Manual - Advanced Problems in Organic Chemistry for JEE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(3).pdf" style="text-decoration:none;">Solution Manual - Advanced Problems in Organic Chemistry for JEE (Part I)</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(4).pdf" style="text-decoration:none;">Vogel's Textbook of Practical Organic Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(5).pdf" style="text-decoration:none;">Modern Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(5).pdf" style="text-decoration:none;">Comprehensive Coordination Chemistry II: From Biology to Nanotechnology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(6).pdf" style="text-decoration:none;">CPO Focus on Physical Science</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(6).pdf" style="text-decoration:none;">Solution Manual - Advanced Problems in Organic Chemistry for JEE (Part II)</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(7).pdf" style="text-decoration:none;">Experiments in Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(7).pdf" style="text-decoration:none;">Chemistry of Plant Natural Products</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(8).pdf" style="text-decoration:none;">Learn Electronics with Raspberry Pi: Physical Computing with Circuits, Sensors, Outputs, and Projects</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(9).pdf" style="text-decoration:none;">Instructor Solution Manual for Fundamentals of Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(10).pdf" style="text-decoration:none;">Elements of Nuclear Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(8).pdf" style="text-decoration:none;">Water Chemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(9).pdf" style="text-decoration:none;">Chemistry 40 Years IIT-JEE Advanced + 16 yrs JEE Main Topic-wise Chapterwise Solved Papers</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(10).pdf" style="text-decoration:none;">Chemistry, Biochemistry and Ayurveda of Indian Medicinal Plants</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(11).pdf" style="text-decoration:none;">Introduction to Nuclear and Particle Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(11).pdf" style="text-decoration:none;">Medicinal Chemistry: A Molecular and Biochemical Approach</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(12).pdf" style="text-decoration:none;"> The Feynman Lectures on Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(12).pdf" style="text-decoration:none;"> Radiochemistry and Nuclear Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(13).pdf" style="text-decoration:none;"> Discussions on I E Irodov solutions Problems in General Physics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(14).pdf" style="text-decoration:none;"> Physical Sciences Grade 11</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(15).pdf" style="text-decoration:none;">Understanding physics: Mechanics, part 2</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(13).pdf" style="text-decoration:none;"> Class 12 Chemistry 11 Years CBSE Champion Chapterwise Topicwise Questions and Solutions NCERT( 2007 to 2017 ) </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(14).pdf" style="text-decoration:none;"> Environmental Chemistry: Green Chemistry and Pollutants in Ecosystems</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(15).pdf" style="text-decoration:none;">NMR and Chemistry: An introduction to modern NMR spectroscopy</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(16).pdf" style="text-decoration:none;">The Physics of Everyday Phenomena: A Conceptual Introduction to Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(16).pdf" style="text-decoration:none;">Goyal's IIT Foundation Course: Chemistry for Class 9</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(17).pdf" style="text-decoration:none;">Conceptual Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(17).pdf" style="text-decoration:none;">Cracking the SAT Chemistry Subject Test</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(18).pdf" style="text-decoration:none;">Semiconductor Physics and Devices: Basic Principles</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(19).pdf" style="text-decoration:none;">Problems and Solutions on Quantum Mechanics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(20).pdf" style="text-decoration:none;">Cambridge IGCSE Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(18).pdf" style="text-decoration:none;">Foye's Principles of Medicinal Chemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(19).pdf" style="text-decoration:none;">Biophysical Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(20).pdf" style="text-decoration:none;">Organic Chemistry I Workbook For Dummies</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(21).pdf" style="text-decoration:none;">Introduction to Modern Optics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(21).pdf" style="text-decoration:none;">Chemistry for Pharmacy Students</a></li>
                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(22).pdf" style="text-decoration:none;">IB Physics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(23).pdf" style="text-decoration:none;">Introduction to the Physics of Matter</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(24).pdf" style="text-decoration:none;">The Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(25).pdf" style="text-decoration:none;">Physics 2000</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(23).pdf" style="text-decoration:none;">XII Chemistry Study Material</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(24).pdf" style="text-decoration:none;">Environmental Monitoring and Characterization</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(25).pdf" style="text-decoration:none;"Quantum Chemistry and molecular interactions</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(26).pdf" style="text-decoration:none;">Physics II For Dummies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(26).pdf" style="text-decoration:none;">Introduction to Colloid and Surface Chemistry</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(27).pdf" style="text-decoration:none;">Modern Classical Physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(27).pdf" style="text-decoration:none;">Wine Chemistry and Biochemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(28).pdf" style="text-decoration:none;">Newtonian Physics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(29).pdf" style="text-decoration:none;">The Pearson Guide to Physical Chemistry for the IIT JEE</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(30).pdf" style="text-decoration:none;">Atomic Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(28).pdf" style="text-decoration:none;">Solving General Chemistry Problems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(29).pdf" style="text-decoration:none;">Organic Chemistry Principles in Context</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(30).pdf" style="text-decoration:none;">The Handy Chemistry Answer Book</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(31).pdf" style="text-decoration:none;">Handbook on the Physics and Chemistry of Rare Earths</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(31).pdf" style="text-decoration:none;">Solutions manual to accompany Organic Chemistry</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(32).pdf" style="text-decoration:none;">A History of Mechanics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(32).pdf" style="text-decoration:none;"> Physical Chemistry Part 1 for IIT JEE Mains and Advanced</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(33).pdf" style="text-decoration:none;">Mathematical Physics: Applied Mathematics for Scientists and Engineers</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(34).pdf" style="text-decoration:none;">Applied Physics, System Science and Computers: Proceedings of the 1st International Conference on Applied Physics, System Science and Computers (APSAC2016), September 28–30, Dubrovnik, Croatia</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(35).pdf" style="text-decoration:none;">1000 Solved Problems in Classical Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(33).pdf" style="text-decoration:none;">Problems In Physical Chemistry For JEE Main and Advanced </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(34).pdf" style="text-decoration:none;">Statistical Methods in Analytical Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(35).pdf" style="text-decoration:none;">Class 12: Chemistry (Part I)</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(36).pdf" style="text-decoration:none;">Quantum Physics (UCSD Physics 130)</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(37).pdf" style="text-decoration:none;">Physics: NCERT Exemplar Problems and Solutions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(36).pdf" style="text-decoration:none;">Food Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(37).pdf" style="text-decoration:none;">Chemistry: Concepts and Problems: A Self-Teaching Guide</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(38).pdf" style="text-decoration:none;">Solutions to I E Irodov's Problems in General Physics, Vol.1</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(38).pdf" style="text-decoration:none;">Schaum's Outline of Organic Chemistry</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(39).pdf" style="text-decoration:none;"> Schaum's Outline of Theory and Problems of College Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(39).pdf" style="text-decoration:none;"> The Pearson Guide to Inorganic Chemistry for the IIT JEE </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(40).pdf" style="text-decoration:none;">1000 Solved Problems in Modern Physics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(41).pdf" style="text-decoration:none;">Tensors for Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(42).pdf" style="text-decoration:none;">Advanced Solid State Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(40).pdf" style="text-decoration:none;">Atkins' Physical Chemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(41).pdf" style="text-decoration:none;">Writing Reaction Mechanisms in Organic Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(42).pdf" style="text-decoration:none;">Chemical Warfare Agents: Chemistry, Pharmacology, Toxicology, and Therapeutics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(43).pdf" style="text-decoration:none;">Solutions to I E Irodov's Problems in General Physics, Vol.2</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(44).pdf" style="text-decoration:none;"> Physics Olympiad: 1993 Multiple Choice Screening Test</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(45).pdf" style="text-decoration:none;">Quantum Physics For Dummies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(43).pdf" style="text-decoration:none;">Safety at Work</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(44).pdf" style="text-decoration:none;"> IIT JEE Super Course in Chemistry: Organic Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(45).pdf" style="text-decoration:none;">Advanced Structural Inorganic Chemistry</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(46).pdf" style="text-decoration:none;">AP Physics C – Practice Workbook – Book 1, Mechanics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(47).pdf" style="text-decoration:none;">O Level Physics Topical Revision Notes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(48).pdf" style="text-decoration:none;">Physics and Engineering of Radiation Detection</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(46).pdf" style="text-decoration:none;">Heterocyclic Chemistry at a Glance</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(47).pdf" style="text-decoration:none;">Chemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(48).pdf" style="text-decoration:none;">Illustrated Guide to Home Chemistry Experiments</a></li>  
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(49).pdf" style="text-decoration:none;">Physics Olympiad: Basic to Advanced Exercises</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(50).pdf" style="text-decoration:none;">Connecting Quarks with the Cosmos: Eleven Science Questions for the New Century</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(49).pdf" style="text-decoration:none;">Reagent Guide: Synthetic Organic Chemistry and Materials Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(50).pdf" style="text-decoration:none;">The Pearson Guide to Physical Chemistry for the IIT JEE</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(51).pdf" style="text-decoration:none;">IIT JEE Super Course in Physics: Optics and Modern Physics</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(52).pdf" style="text-decoration:none;">Handbook of Metal Physics</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(53).pdf" style="text-decoration:none;">Solid-State Physics: Introduction to the Theory</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(54).pdf" style="text-decoration:none;">A Guide to Physics Problems: Part 2: Thermodynamics, Statistical Physics, and Quantum Mechanics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(55).pdf" style="text-decoration:none;">Ideas and Opinions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(51).pdf" style="text-decoration:none;">Physica Inorganic Chemistry: A Coordination Chemistry Approach</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(52).pdf" style="text-decoration:none;">A Guidebook to Mechanism in Organic Chemistry</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(53).pdf" style="text-decoration:none;">Handbook on the Physics and Chemistry of Rare Earths</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(54).pdf" style="text-decoration:none;">Physical Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(55).pdf" style="text-decoration:none;">Cambridge International AS and A Level Chemistry Revision Guide</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(56).pdf" style="text-decoration:none;">Astronomy and Astrophysics in the New Millennium</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(57).pdf" style="text-decoration:none;">Physics Multiple Choice Questions Answers Fully Solved</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(56).pdf" style="text-decoration:none;">Organic Polymer Chemistry: An Introduction to the Organic Chemistry of Adhesives, Fibres, Paints, Plastics and Rubbers</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(57).pdf" style="text-decoration:none;">Modern Analytical Chemistry</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(58).pdf" style="text-decoration:none;">Physics Solutions Manual</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(59).pdf" style="text-decoration:none;">Physics of the Impossible: A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(59).pdf" style="text-decoration:none;">Calculations for A-level Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(60).pdf" style="text-decoration:none;">NCERT Class 12: Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(60).pdf" style="text-decoration:none;">CBSE Board Class 12 Chemistry: solved papers 2008-2017 in level of difficulty chapters with 3 sample papers</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(61).pdf" style="text-decoration:none;">Higher Mathematics for Physics and Engineering</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(62).pdf" style="text-decoration:none;">Physics Workbook For Dummies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(61).pdf" style="text-decoration:none;">Encyclopedia of Physical Science and Technology (Organic Chemistry)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(62).pdf" style="text-decoration:none;">Advanced Organic Chemistry: Part B: Reactions and Synthesis</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(63).pdf" style="text-decoration:none;">SAT II Success Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(64).pdf" style="text-decoration:none;">Feynman's Tips on Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(63).pdf" style="text-decoration:none;"> The Chemistry of Essential Oils and Artificial Perfumes Volume I</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(64).pdf" style="text-decoration:none;">MTG's 30 years NEET/AIPMT Chapter Wise Solutions Chemistry</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(65).pdf" style="text-decoration:none;">Physics in a New Era: An Overview</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(66).pdf" style="text-decoration:none;">Practical Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(65).pdf" style="text-decoration:none;">Medicinal Chemistry: An Introduction</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(66).pdf" style="text-decoration:none;">5 Steps to a 5 AP Chemistry 2014-2015</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(67).pdf" style="text-decoration:none;">
-The Handy Physics Answer Book</a></li>                              
+Bioinorganic Chemistry: A Short Course</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(68).pdf" style="text-decoration:none;">Aptitude Test Problems in Physics Science for Everyone</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(69).pdf" style="text-decoration:none;">Physics through the 1990s: Gravitation, cosmology and cosmic-ray physics</a></li>
