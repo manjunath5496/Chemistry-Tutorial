@@ -11,7 +11,8 @@
 <li class="toclevel-1 tocsection-6"><a href="#Thermochemistry"><span class="toctext">Thermochemistry</span></a></li>
 <li class="toclevel-1 tocsection-7"><a href="#Chemists"><span class="toctext">Chemists</span></a></li>
  <li class="toclevel-1 tocsection-8"><a href="#Glossary of chemistry"><span class="toctext">Glossary of chemistry</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#Books"><span class="toctext">Books</span></a></li>  
+ <li class="toclevel-1 tocsection-9"><a href="#Lists"><span class="toctext">Lists</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Books"><span class="toctext">Books</span></a></li>  
 </ul>
 </br>
 <h2><span id="Summary_of_chemistry" class="mw-headline">Summary of chemistry</span></h2>
@@ -2824,6 +2825,59 @@
 
 
 </br>
+
+<h2><span id="Lists" class="mw-headline">Lists</span></h2>
+<dl>
+<dt><a class="mw-redirect" title="Chemical elements data references" href="https://en.wikipedia.org/wiki/Chemical_elements_data_references">Chemical elements data references</a></dt>
+</dl>
+<ul>
+<li><a title="List of chemical elements" href="https://en.wikipedia.org/wiki/List_of_chemical_elements">List of chemical elements</a>&nbsp;&mdash; atomic mass, atomic number, symbol, name</li>
+<li><a title="Electron configurations of the elements (data page)" href="https://en.wikipedia.org/wiki/Electron_configurations_of_the_elements_(data_page)">Electron configurations of the elements (data page)</a>&nbsp;&mdash; electron configuration, electrons per shell</li>
+<li><a title="Densities of the elements (data page)" href="https://en.wikipedia.org/wiki/Densities_of_the_elements_(data_page)">Densities of the elements (data page)</a>&nbsp;&mdash; density (solid, liquid, gas)</li>
+<li><a title="Electron affinity (data page)" href="https://en.wikipedia.org/wiki/Electron_affinity_(data_page)">Electron affinity (data page)</a>&nbsp;&mdash; electron affinity</li>
+<li><a title="Melting points of the elements (data page)" href="https://en.wikipedia.org/wiki/Melting_points_of_the_elements_(data_page)">Melting points of the elements (data page)</a>&nbsp;&mdash; melting point</li>
+<li><a title="Boiling points of the elements (data page)" href="https://en.wikipedia.org/wiki/Boiling_points_of_the_elements_(data_page)">Boiling points of the elements (data page)</a>&nbsp;&mdash; boiling point</li>
+<li><a title="Critical points of the elements (data page)" href="https://en.wikipedia.org/wiki/Critical_points_of_the_elements_(data_page)">Critical points of the elements (data page)</a>&nbsp;&mdash; critical point</li>
+<li><a title="Heats of fusion of the elements (data page)" href="https://en.wikipedia.org/wiki/Heats_of_fusion_of_the_elements_(data_page)">Heats of fusion of the elements (data page)</a>&nbsp;&mdash; heat of fusion</li>
+<li><a title="Heats of vaporization of the elements (data page)" href="https://en.wikipedia.org/wiki/Heats_of_vaporization_of_the_elements_(data_page)">Heats of vaporization of the elements (data page)</a>&nbsp;&mdash; heat of vaporization</li>
+<li><a title="Heat capacities of the elements (data page)" href="https://en.wikipedia.org/wiki/Heat_capacities_of_the_elements_(data_page)">Heat capacities of the elements (data page)</a>&nbsp;&mdash; heat capacity</li>
+<li><a title="Vapor pressures of the elements (data page)" href="https://en.wikipedia.org/wiki/Vapor_pressures_of_the_elements_(data_page)">Vapor pressures of the elements (data page)</a>&nbsp;&mdash; vapor pressure</li>
+<li><a title="Electronegativities of the elements (data page)" href="https://en.wikipedia.org/wiki/Electronegativities_of_the_elements_(data_page)">Electronegativities of the elements (data page)</a>&nbsp;&mdash; electronegativity (Pauling scale)</li>
+<li><a title="Ionization energies of the elements (data page)" href="https://en.wikipedia.org/wiki/Ionization_energies_of_the_elements_(data_page)">Ionization energies of the elements (data page)</a>&nbsp;&mdash; ionization energies (in eV) and molar ionization energies (in kJ/mol)</li>
+<li><a title="Atomic radii of the elements (data page)" href="https://en.wikipedia.org/wiki/Atomic_radii_of_the_elements_(data_page)">Atomic radii of the elements (data page)</a>&nbsp;&mdash; atomic radius (empirical), atomic radius (calculated), van der Waals radius, covalent radius</li>
+<li><a title="Electrical resistivities of the elements (data page)" href="https://en.wikipedia.org/wiki/Electrical_resistivities_of_the_elements_(data_page)">Electrical resistivities of the elements (data page)</a>&nbsp;&mdash; electrical resistivity</li>
+<li><a title="Thermal conductivities of the elements (data page)" href="https://en.wikipedia.org/wiki/Thermal_conductivities_of_the_elements_(data_page)">Thermal conductivities of the elements (data page)</a>&nbsp;&mdash; thermal conductivity</li>
+<li><a title="Thermal expansion coefficients of the elements (data page)" href="https://en.wikipedia.org/wiki/Thermal_expansion_coefficients_of_the_elements_(data_page)">Thermal expansion coefficients of the elements (data page)</a>&nbsp;&mdash; thermal expansion</li>
+<li><a class="mw-redirect" title="Speeds of sound of the elements (data page)" href="https://en.wikipedia.org/wiki/Speeds_of_sound_of_the_elements_(data_page)">Speeds of sound of the elements (data page)</a>&nbsp;&mdash; speed of sound</li>
+<li><a title="Elastic properties of the elements (data page)" href="https://en.wikipedia.org/wiki/Elastic_properties_of_the_elements_(data_page)">Elastic properties of the elements (data page)</a>&nbsp;&mdash; Young's modulus, Poisson ratio, bulk modulus, shear modulus</li>
+<li><a title="Hardnesses of the elements (data page)" href="https://en.wikipedia.org/wiki/Hardnesses_of_the_elements_(data_page)">Hardnesses of the elements (data page)</a>&nbsp;&mdash; Mohs hardness, Vickers hardness, Brinell hardness</li>
+<li><a title="Abundances of the elements (data page)" href="https://en.wikipedia.org/wiki/Abundances_of_the_elements_(data_page)">Abundances of the elements (data page)</a>&nbsp;&mdash; Earth's crust, sea water, Sun and solar system</li>
+<li><a class="mw-redirect" title="List of oxidation states of the elements" href="https://en.wikipedia.org/wiki/List_of_oxidation_states_of_the_elements">List of oxidation states of the elements</a>&nbsp;&mdash; oxidation states</li>
+</ul>
+<dl>
+<dt><a title="List of compounds" href="https://en.wikipedia.org/wiki/List_of_compounds">List of compounds</a></dt>
+</dl>
+<ul>
+<li><a title="List of CAS numbers by chemical compound" href="https://en.wikipedia.org/wiki/List_of_CAS_numbers_by_chemical_compound">List of CAS numbers by chemical compound</a></li>
+<li><a class="mw-redirect" title="List of Extremely Hazardous Substances" href="https://en.wikipedia.org/wiki/List_of_Extremely_Hazardous_Substances">List of Extremely Hazardous Substances</a></li>
+<li><a title="List of inorganic compounds" href="https://en.wikipedia.org/wiki/List_of_inorganic_compounds">List of inorganic compounds</a></li>
+<li><a class="mw-redirect" title="List of organic compounds" href="https://en.wikipedia.org/wiki/List_of_organic_compounds">List of organic compounds</a></li>
+<li><a class="mw-redirect" title="List of alkanes" href="https://en.wikipedia.org/wiki/List_of_alkanes">List of alkanes</a></li>
+<li><a class="mw-redirect" title="List of alloys" href="https://en.wikipedia.org/wiki/List_of_alloys">List of alloys</a></li>
+</ul>
+<dl>
+<dt>Other</dt>
+</dl>
+<ul>
+<li><a title="List of thermal conductivities" href="https://en.wikipedia.org/wiki/List_of_thermal_conductivities">List of thermal conductivities</a></li>
+<li><a title="List of purification methods in chemistry" href="https://en.wikipedia.org/wiki/List_of_purification_methods_in_chemistry">List of purification methods in chemistry</a></li>
+<li><a title="List of unsolved problems in chemistry" href="https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_chemistry">List of unsolved problems in chemistry</a></li>
+</ul>
+
+</br>
+
+
+
 <h2 id ="Books">Books </h2>
 <ul>
 
