@@ -1235,7 +1235,300 @@
 <dd class="glossary">A vessel or container, most commonly a type of&nbsp;<a class="mw-redirect" title="Glassware" href="https://en.wikipedia.org/wiki/Glassware">glassware</a>, widely used in laboratories for a variety of purposes, such as preparing, holding, containing, collecting, or volumetrically measuring chemicals, samples, or solutions, or as a chamber in which a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#chemical_reaction"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; chemical reaction">chemical reaction</span></a>&nbsp;occurs. Flasks come in a number of shapes and sizes but are typically characterized by a wider vessel "body" and one or more narrower tubular sections with an opening at the top.</dd>
 </dl>
 
-
+<dl class="glossary">
+<dt id="formal_charge_(fc)" class="glossary"><dfn class="glossary"><a title="Formal charge" href="https://en.wikipedia.org/wiki/Formal_charge">formal charge</a>&nbsp;(FC)</dfn></dt>
+<dd class="glossary">The&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#electric_charge"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric charge">electric charge</span></a>&nbsp;assigned to an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atom</span></a>&nbsp;in a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#molecule"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; molecule">molecule</span></a>, assuming that all&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electron">electrons</span></a>&nbsp;in all&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#chemical_bond"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; chemical bond">bonds</span></a>&nbsp;are shared equally between atoms, regardless of each atom's relative&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#electronegativity"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electronegativity">electronegativity</span></a>. The formal charge of any atom that is part of a molecule can be calculated by the equation&nbsp;<span class="mwe-math-element"><img class="mwe-math-fallback-image-inline" src="1.png" alt="FC=V-N-{\frac {B}{2}}\ " /></span>, where&nbsp; <strong><em>V</em></strong> is the number of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#valence_electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; valence electron">valence electrons</span></a>&nbsp;of the neutral atom in its ground state;&nbsp;&nbsp;<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y">&nbsp;<em><strong>N&nbsp;</strong></em></span></span>&nbsp;is the number of valence electrons of the atom which are not participating in bonds in the molecule; and&nbsp;<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y">&nbsp;<strong><em>B</em></strong></span></span>&nbsp;is the number of electrons shared in bonds with other atoms in the molecule.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="fractional_distillation" class="glossary"><dfn class="glossary"><a title="Fractional distillation" href="https://en.wikipedia.org/wiki/Fractional_distillation">fractional distillation</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="free_radical" class="glossary"><dfn class="glossary"><a title="Radical (chemistry)" href="https://en.wikipedia.org/wiki/Radical_(chemistry)">free radical</a></dfn></dt>
+<dd class="glossary">See&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#radical"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; radical">radical</span></a></em>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="freezing-point_depression" class="glossary"><dfn class="glossary"><a title="Freezing-point depression" href="https://en.wikipedia.org/wiki/Freezing-point_depression">freezing-point depression</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="freezing_point" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Freezing point" href="https://en.wikipedia.org/wiki/Freezing_point">freezing point</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also&nbsp;<strong>crystallization point</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">The&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#temperature"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; temperature">temperature</span></a>&nbsp;at which a substance changes&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#state_of_matter"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; state of matter">state</span></a>&nbsp;from a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#liquid"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; liquid">liquid</span></a>&nbsp;to a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#solid"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; solid">solid</span></a>. Because&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#freezing"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; freezing">freezing</span></a>&nbsp;is the reverse of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#melting"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; melting">melting</span></a>, the freezing point of a substance is identical to its&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#melting_point"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; melting point">melting point</span></a>, but by convention only the melting point is referred to as a characteristic property of a substance.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="frequency" class="glossary"><dfn class="glossary"><a title="Frequency" href="https://en.wikipedia.org/wiki/Frequency">frequency</a></dfn></dt>
+<dd class="glossary">A measurement of the number of cycles of a given process per unit of time. The&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#sI"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; SI">SI</span></a>&nbsp;unit for measuring frequency is the&nbsp;<a title="Hertz" href="https://en.wikipedia.org/wiki/Hertz">hertz</a>&nbsp;(Hz), with 1 Hz = 1 cycle per second.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="functional_group" class="glossary"><dfn class="glossary"><a title="Functional group" href="https://en.wikipedia.org/wiki/Functional_group">functional group</a></dfn></dt>
+</dl>
+<h2><span id="G" class="mw-headline">G</span></h2>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="galvanic_cell" class="glossary"><dfn class="glossary"><a title="Galvanic cell" href="https://en.wikipedia.org/wiki/Galvanic_cell">galvanic cell</a></dfn></dt>
+<dd class="glossary">A type of&nbsp;<a class="mw-redirect" title="Battery (electricity)" href="https://en.wikipedia.org/wiki/Battery_(electricity)">battery</a>&nbsp;made up of electrochemicals with two different metals connected by a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#salt_bridge"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; salt bridge">salt bridge</span></a>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="gas" class="glossary"><dfn class="glossary"><a title="Gas" href="https://en.wikipedia.org/wiki/Gas">gas</a></dfn></dt>
+<dd class="glossary">One of the four fundamental&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#state_of_matter"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; state of matter">states of matter</span></a>, characterized by high-energy particles which fill their container but have no definite shape or volume.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="gas_chromatography" class="glossary"><dfn class="glossary"><a title="Gas chromatography" href="https://en.wikipedia.org/wiki/Gas_chromatography">gas chromatography</a></dfn></dt>
+<dd class="glossary">A type of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#chromatography"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; chromatography">chromatography</span></a>&nbsp;commonly used in&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#analytical_chemistry"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; analytical chemistry">analytical chemistry</span></a>&nbsp;to isolate and analyze chemical compounds that can be&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#evaporation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; evaporation">vaporized</span></a>&nbsp;without&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#chemical_decomposition"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; chemical decomposition">decomposition</span></a>. Gas chromatography is often used to test the purity of substances, to identify unknown substances, and to measure the relative amounts of the different components of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#mixture"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; mixture">mixtures</span></a>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="gay-lussac's_law" class="glossary"><dfn class="glossary"><a title="Gay-Lussac's law" href="https://en.wikipedia.org/wiki/Gay-Lussac%27s_law">Gay-Lussac's law</a></dfn></dt>
+<dd class="glossary">A chemical law used for each of the two relationships derived by French chemist&nbsp;<a title="Joseph Louis Gay-Lussac" href="https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac">Joseph Louis Gay-Lussac</a>&nbsp;and which concern the properties of gases, though the name is more usually applied to his law of combining volumes.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="geochemistry" class="glossary"><dfn class="glossary"><a title="Geochemistry" href="https://en.wikipedia.org/wiki/Geochemistry">geochemistry</a></dfn></dt>
+<dd class="glossary">The study of the chemistry and chemical composition of the Earth and&nbsp;<a title="Geology" href="https://en.wikipedia.org/wiki/Geology">geological</a>&nbsp;processes.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="gibbs_energy" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Gibbs energy" href="https://en.wikipedia.org/wiki/Gibbs_energy">Gibbs energy</a></dfn></dt>
+<dd class="glossary">A value that indicates the spontaneity of a reaction. Usually symbolized as&nbsp;<em>G</em>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="glass" class="glossary"><dfn class="glossary"><a title="Glass" href="https://en.wikipedia.org/wiki/Glass">glass</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="gram-atom" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Gram-atom" href="https://en.wikipedia.org/wiki/Gram-atom">gram-atom</a></dfn></dt>
+<dd class="glossary">One gram-atom of an element is defined as a collection of 6.023X10^23 atoms.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="grignard_reaction" class="glossary"><dfn class="glossary"><a title="Grignard reaction" href="https://en.wikipedia.org/wiki/Grignard_reaction">Grignard reaction</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="ground_glass_joint" class="glossary"><dfn class="glossary"><a title="Ground glass joint" href="https://en.wikipedia.org/wiki/Ground_glass_joint">ground glass joint</a></dfn></dt>
+<dd class="glossary">An apparatus designed to quickly and easily fit two pieces of leak-tight&nbsp;<a class="mw-redirect" title="Glassware" href="https://en.wikipedia.org/wiki/Glassware">glassware</a>&nbsp;together, featuring&nbsp;<a title="Ground glass" href="https://en.wikipedia.org/wiki/Ground_glass">ground glass</a>&nbsp;surfaces and typically a custom-made conical taper.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="group" class="glossary"><dfn class="glossary"><a title="Group (periodic table)" href="https://en.wikipedia.org/wiki/Group_(periodic_table)">group</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also&nbsp;<strong>family</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A vertical column of the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#periodic_table"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; periodic table">periodic table of the elements</span></a>&nbsp;and the elements that share it. Contrast&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#period"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; period">period</span></a></em>.</dd>
+</dl>
+<h2><span id="H" class="mw-headline">H</span></h2>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="halogen" class="glossary"><dfn class="glossary"><a title="Halogen" href="https://en.wikipedia.org/wiki/Halogen">halogen</a></dfn></dt>
+<dd class="glossary">Any of the five&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#non-metal"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; non-metal">non-metallic</span></a>&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#element"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; element">elements</span></a>&nbsp;of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#group"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; group">Group 17</span></a>&nbsp;of the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#periodic_table"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; periodic table">periodic table</span></a>:&nbsp;<a title="Fluorine" href="https://en.wikipedia.org/wiki/Fluorine">fluorine</a>&nbsp;(F),&nbsp;<a title="Chlorine" href="https://en.wikipedia.org/wiki/Chlorine">chlorine</a>&nbsp;(Cl),&nbsp;<a title="Bromine" href="https://en.wikipedia.org/wiki/Bromine">bromine</a>&nbsp;(Br),&nbsp;<a title="Iodine" href="https://en.wikipedia.org/wiki/Iodine">iodine</a>&nbsp;(I), and&nbsp;<a title="Astatine" href="https://en.wikipedia.org/wiki/Astatine">astatine</a>&nbsp;(At).</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="hadron" class="glossary"><dfn class="glossary"><a title="Hadron" href="https://en.wikipedia.org/wiki/Hadron">hadron</a></dfn></dt>
+<dd class="glossary">A subatomic particle of a type including the&nbsp;<a title="Baryon" href="https://en.wikipedia.org/wiki/Baryon">baryons</a>&nbsp;and&nbsp;<a title="Meson" href="https://en.wikipedia.org/wiki/Meson">mesons</a>&nbsp;that can take part in the strong interaction.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="heat" class="glossary"><dfn class="glossary"><a title="Heat" href="https://en.wikipedia.org/wiki/Heat">heat</a></dfn></dt>
+<dd class="glossary">Energy transferred from one system to another by thermal interaction.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="heat_of_fusion" class="glossary"><dfn class="glossary"><a title="Enthalpy of fusion" href="https://en.wikipedia.org/wiki/Enthalpy_of_fusion">heat of fusion</a></dfn></dt>
+<dd class="glossary">See&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#enthalpy_of_fusion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; enthalpy of fusion">enthalpy of fusion</span></a></em>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="henry's_law" class="glossary"><dfn class="glossary"><a title="Henry's law" href="https://en.wikipedia.org/wiki/Henry%27s_law">Henry's law</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="hess'_law_of_constant_heat_summation" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Hess' law of constant heat summation" href="https://en.wikipedia.org/wiki/Hess%27_law_of_constant_heat_summation">Hess' law of constant heat summation</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also simply called&nbsp;<strong>Hess' law</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A law of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#physical_chemistry"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; physical chemistry">physical chemistry</span></a>&nbsp;which states that the total&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#enthalpy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; enthalpy">enthalpy</span></a>&nbsp;change during the course of a chemical reaction is the same whether the reaction is completed in one step or in multiple steps.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="hund's_rules" class="glossary"><dfn class="glossary"><a title="Hund's rules" href="https://en.wikipedia.org/wiki/Hund%27s_rules">Hund's rules</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="hydrate" class="glossary"><dfn class="glossary"><a title="Hydrate" href="https://en.wikipedia.org/wiki/Hydrate">hydrate</a></dfn></dt>
+<dd class="glossary">Any substance that contains&nbsp;<a title="Water" href="https://en.wikipedia.org/wiki/Water">water</a>&nbsp;or its constituent elements, or any&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#compound"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; compound">compound</span></a>&nbsp;formed by the addition of water or its elements to another molecule.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="hydration_reaction" class="glossary"><dfn class="glossary"><a title="Hydration reaction" href="https://en.wikipedia.org/wiki/Hydration_reaction">hydration reaction</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="hydrogen" class="glossary"><dfn class="glossary"><a title="Hydrogen" href="https://en.wikipedia.org/wiki/Hydrogen">hydrogen</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="hydrogen_bond" class="glossary"><dfn class="glossary"><a title="Hydrogen bond" href="https://en.wikipedia.org/wiki/Hydrogen_bond">hydrogen bond</a></dfn></dt>
+<dd class="glossary">A form of&nbsp;<a class="mw-redirect" title="Electrostatic force" href="https://en.wikipedia.org/wiki/Electrostatic_force">electrostatic interaction</a>&nbsp;between an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#electronegativity"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electronegativity">electronegative</span></a>&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atom</span></a>&nbsp;and a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#hydrogen"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; hydrogen">hydrogen</span></a>&nbsp;atom bound to a second electronegative atom. Hydrogen bonding is unique because the small size of the hydrogen atoms permits proximity of the interacting&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#electrical_charge"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electrical charge">electrical charges</span></a>, and may occur as an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#intermolecular_force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; intermolecular force">intermolecular</span></a>&nbsp;or&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#intramolecular_force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; intramolecular force">intramolecular</span></a>&nbsp;force.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="hydrogenation" class="glossary"><dfn class="glossary"><a title="Hydrogenation" href="https://en.wikipedia.org/wiki/Hydrogenation">hydrogenation</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="hydrolysis" class="glossary"><dfn class="glossary"><a title="Hydrolysis" href="https://en.wikipedia.org/wiki/Hydrolysis">hydrolysis</a></dfn></dt>
+<dd class="glossary">The cleavage of a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#bond"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; bond">chemical bond</span></a>&nbsp;by the addition of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#water"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; water">water</span></a>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="hygroscopy" class="glossary"><dfn class="glossary"><a title="Hygroscopy" href="https://en.wikipedia.org/wiki/Hygroscopy">hygroscopy</a></dfn></dt>
+<dt class="glossary"><dfn class="glossary"></dfn></dt>
+</dl>
+<h2><span id="I" class="mw-headline">I</span></h2>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="ideal_gas" class="glossary"><dfn class="glossary"><a title="Ideal gas" href="https://en.wikipedia.org/wiki/Ideal_gas">ideal gas</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="ideal_gas_constant" class="glossary"><dfn class="glossary"><a title="Gas constant" href="https://en.wikipedia.org/wiki/Gas_constant">ideal gas constant</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also&nbsp;<strong>universal gas constant</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">The proportionality constant in the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#ideal_gas_law"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; ideal gas law">ideal gas law</span></a>, defined as 0.08206&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#liter"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; liter">L</span></a>&middot;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#atmosphere"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atmosphere">atm</span></a>/(<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#kelvin"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; kelvin">K</span></a>&middot;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#mole"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; mole">mol</span></a>).</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="ideal_gas_law" class="glossary"><dfn class="glossary"><a title="Ideal gas law" href="https://en.wikipedia.org/wiki/Ideal_gas_law">ideal gas law</a></dfn></dt>
+<dd class="glossary">A&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#chemical_law"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; chemical law">chemical law</span></a>&nbsp;which states that the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#volume"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; volume">volume</span></a>&nbsp;of a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#gas"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; gas">gas</span></a>&nbsp;is proportional to the amount of gas and its&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#kelvin"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; kelvin">Kelvin</span></a>&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#temperature"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; temperature">temperature</span></a>&nbsp;and inversely proportional to its&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#pressure"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; pressure">pressure</span></a>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="ideal_solution" class="glossary"><dfn class="glossary"><a title="Ideal solution" href="https://en.wikipedia.org/wiki/Ideal_solution">ideal solution</a></dfn></dt>
+<dd class="glossary">A&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#solution"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; solution">solution</span></a>&nbsp;for which the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#gas"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; gas">gas</span></a>&nbsp;phase exhibits thermodynamic properties analogous to those of a mixture of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#ideal_gas"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; ideal gas">ideal gases</span></a>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="independent_variable" class="glossary"><dfn class="glossary"><a title="Dependent and independent variables" href="https://en.wikipedia.org/wiki/Dependent_and_independent_variables">independent variable</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="indicator" class="glossary"><dfn class="glossary"><a title="PH indicator" href="https://en.wikipedia.org/wiki/PH_indicator">indicator</a></dfn></dt>
+<dd class="glossary">A special compound added to a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#solution"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; solution">solution</span></a>&nbsp;that changes color depending on the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#acidity"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; acidity">acidity</span></a>&nbsp;of the solution. Different indicators have different colors and are effective within different&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#pH"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; pH">pH</span></a>&nbsp;ranges.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="induced_radioactivity" class="glossary"><dfn class="glossary"><a title="Induced radioactivity" href="https://en.wikipedia.org/wiki/Induced_radioactivity">induced radioactivity</a></dfn></dt>
+<dd class="glossary">radioactivity caused by bombarding a stable isotope with elemental particles, forming a radioactive isotope</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="inert" class="glossary"><dfn class="glossary"><a title="Chemically inert" href="https://en.wikipedia.org/wiki/Chemically_inert">inert</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="inorganic_compound" class="glossary"><dfn class="glossary"><a title="Inorganic compound" href="https://en.wikipedia.org/wiki/Inorganic_compound">inorganic compound</a></dfn></dt>
+<dd class="glossary">Any chemical compound that does not contain&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#carbon"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; carbon">carbon</span></a>, though there are exceptions. Contrast&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#organic_compound"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; organic compound">organic compound</span></a></em>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="inorganic_chemistry" class="glossary"><dfn class="glossary"><a title="Inorganic chemistry" href="https://en.wikipedia.org/wiki/Inorganic_chemistry">inorganic chemistry</a></dfn></dt>
+<dd class="glossary">The branch of chemistry concerning the chemical properties and reactions of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#inorganic_compound"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; inorganic compound">inorganic compounds</span></a>. Contrast&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#organic_chemistry"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; organic chemistry">organic chemistry</span></a></em>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="insulator" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Insulator (electrical)" href="https://en.wikipedia.org/wiki/Insulator_(electrical)">insulator</a></dfn></dt>
+<dd class="glossary">Any material that resists the flow of an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#electric_current"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric current">electric current</span></a>. Contrast&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#conductor"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; conductor">conductor</span></a></em>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="intensive_property" class="glossary"><dfn class="glossary"><a title="Intensive and extensive properties" href="https://en.wikipedia.org/wiki/Intensive_and_extensive_properties">intensive property</a></dfn></dt>
+<dd class="glossary">A&nbsp;<a title="Physical quantity" href="https://en.wikipedia.org/wiki/Physical_quantity">physical quantity</a>&nbsp;whose value does not depend on the size of the system or the quantity of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#matter"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; matter">matter</span></a>&nbsp;for which it is measured. Examples include&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#density"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; density">density</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#temperature"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; temperature">temperature</span></a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#pressure"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; pressure">pressure</span></a>. Contrast&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#extensive_property"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; extensive property">extensive property</span></a></em>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="intermolecular_force" class="glossary"><dfn class="glossary"><a title="Intermolecular force" href="https://en.wikipedia.org/wiki/Intermolecular_force">intermolecular force</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="international_system_of_units_(si)" class="glossary"><dfn class="glossary"><a title="International System of Units" href="https://en.wikipedia.org/wiki/International_System_of_Units">International System of Units</a>&nbsp;(SI)</dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="international_union_of_pure_and_applied_chemistry_(iupac)" class="glossary"><dfn class="glossary"><a title="International Union of Pure and Applied Chemistry" href="https://en.wikipedia.org/wiki/International_Union_of_Pure_and_Applied_Chemistry">International Union of Pure and Applied Chemistry</a>&nbsp;(IUPAC)</dfn></dt>
+<dd class="glossary">An international federation of chemists that is recognized as the world authority in developing standards for&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#chemical_nomenclature"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; chemical nomenclature">chemical nomenclature</span></a>&nbsp;and other methodologies in chemistry.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="intramolecular_force" class="glossary"><dfn class="glossary"><a title="Intramolecular force" href="https://en.wikipedia.org/wiki/Intramolecular_force">intramolecular force</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="intrinsic_property" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Intrinsic property" href="https://en.wikipedia.org/wiki/Intrinsic_property">intrinsic property</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="ion" class="glossary"><dfn class="glossary"><a title="Ion" href="https://en.wikipedia.org/wiki/Ion">ion</a></dfn></dt>
+<dd class="glossary">A&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#molecule"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; molecule">molecule</span></a>&nbsp;that has gained or lost one or more&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electron">electrons</span></a>&nbsp;from its neutral state and therefore possesses a negative or positive&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#electric_charge"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric charge">electric charge</span></a>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="ionic_bond" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Ionic bond" href="https://en.wikipedia.org/wiki/Ionic_bond">ionic bond</a></dfn></dt>
+<dd class="glossary">An electrostatic attraction between oppositely charged&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#ion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; ion">ions</span></a>.</dd>
+</dl>
+<div class="thumb tright">&nbsp;</div>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="ionization" class="glossary"><dfn class="glossary"><a title="Ionization" href="https://en.wikipedia.org/wiki/Ionization">ionization</a></dfn></dt>
+<dd class="glossary">The breaking up of a chemical&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#compound"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; compound">compound</span></a>&nbsp;into separate ions.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="isoelectronicity" class="glossary"><dfn class="glossary"><a title="Isoelectronicity" href="https://en.wikipedia.org/wiki/Isoelectronicity">isoelectronicity</a></dfn></dt>
+<dd class="glossary">The phenomenon of two or more&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#chemical_species"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; chemical species">chemical species</span></a>&nbsp;(<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atoms</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#molecule"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; molecule">molecules</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#ion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; ion">ions</span></a>, etc.) being composed of different&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#element"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; element">elements</span></a>&nbsp;but having the same number of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#valence_electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; valence electron">valence</span></a>&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electron">electrons</span></a>&nbsp;and the same structural arrangement (i.e. the same number of atoms with the same connectivity). Isoelectronic species typically show useful consistency and predictability in their chemical properties.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="isomerization" class="glossary"><dfn class="glossary"><a title="Isomerization" href="https://en.wikipedia.org/wiki/Isomerization">isomerization</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="isomers" class="glossary"><dfn class="glossary"><a title="Isomer" href="https://en.wikipedia.org/wiki/Isomer">isomers</a></dfn></dt>
+<dd class="glossary"><a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#ion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; ion">Ions</span></a>&nbsp;or&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#molecule"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; molecule">molecules</span></a>&nbsp;with identical&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#chemical_formula"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; chemical formula">chemical formulas</span></a>&nbsp;but distinct structures or spatial arrangements. Isomers do not necessarily share similar properties. The two main types of isomers are&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#structural_isomer"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; structural isomer">structural isomers</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#stereoisomer"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; stereoisomer">stereoisomers</span></a>.</dd>
+</dl>
+<p>&nbsp;</p>
+<dl class="glossary">
+<dt id="isotope" class="glossary"><dfn class="glossary"><a title="Isotope" href="https://en.wikipedia.org/wiki/Isotope">isotope</a></dfn></dt>
+<dd class="glossary">A variant of a particular&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#element"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; element">chemical element</span></a>&nbsp;which differs in the number of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#neutron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; neutron">neutrons</span></a>&nbsp;present in the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#nucleus"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; nucleus">nucleus</span></a>. All isotopes of a given element have the same number of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#proton"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; proton">protons</span></a>&nbsp;in each&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atom</span></a>.</dd>
+</dl>
 
 
 
