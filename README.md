@@ -3102,6 +3102,15 @@ Bioinorganic Chemistry: A Short Course</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(140).pdf" style="text-decoration:none;">The Periodic Table: Its Story and Its Significance </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(141).pdf" style="text-decoration:none;">Uncle Tungsten: Memories of a Chemical Boyhood </a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(142).pdf" style="text-decoration:none;">The 13th Element: The Sordid Tale of Murder, Fire, and Phosphorus </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(143).pdf" style="text-decoration:none;">The Elements of Murder: A History of Poison</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(144).pdf" style="text-decoration:none;">Secrets of Methamphetamine Manufacture</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(145).pdf" style="text-decoration:none;">Carbohydrate Chemistry, Volume 26 </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(146).pdf" style="text-decoration:none;">Atoms, Molecules and Matter: The Stuff of Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(147).pdf" style="text-decoration:none;">Napoleon's Buttons: How 17 Molecules Changed History</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(148).pdf" style="text-decoration:none;">A Short History of Nearly Everything </a></li>
+
 
 
 </ul>
