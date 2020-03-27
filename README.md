@@ -2918,7 +2918,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(21).pdf" style="text-decoration:none;">Chemistry for Pharmacy Students</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(22).pdf" style="text-decoration:none;">IB Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(22).pdf" style="text-decoration:none;">MCQs in Biochemistry</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(23).pdf" style="text-decoration:none;">XII Chemistry Study Material</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(24).pdf" style="text-decoration:none;">Environmental Monitoring and Characterization</a></li>                              
@@ -2973,7 +2973,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(56).pdf" style="text-decoration:none;">Organic Polymer Chemistry: An Introduction to the Organic Chemistry of Adhesives, Fibres, Paints, Plastics and Rubbers</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(57).pdf" style="text-decoration:none;">Modern Analytical Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(58).pdf" style="text-decoration:none;">Physics Solutions Manual</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(58).pdf" style="text-decoration:none;">Biochemistry For Dummies</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(59).pdf" style="text-decoration:none;">Calculations for A-level Chemistry</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(60).pdf" style="text-decoration:none;">CBSE Board Class 12 Chemistry: solved papers 2008-2017 in level of difficulty chapters with 3 sample papers</a></li>
@@ -2998,7 +2998,7 @@ Bioinorganic Chemistry: A Short Course</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(72).pdf" style="text-decoration:none;">Problems and Solutions on Atomic, Nuclear and Particle Physics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(72).pdf" style="text-decoration:none;">Lippincott Biochemistry</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(73).pdf" style="text-decoration:none;">Chemistry Workbook For Dummies</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(74).pdf" style="text-decoration:none;">Oxidation and Antioxidants in Organic Chemistry and Biology</a></li>                              
