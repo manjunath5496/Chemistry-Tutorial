@@ -3089,18 +3089,18 @@ Bioinorganic Chemistry: A Short Course</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(130).pdf" style="text-decoration:none;">Shriver and Atkins Inorganic Chemistry </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(131).pdf" style="text-decoration:none;">The Science of Cooking: Understanding the Biology and Chemistry Behind Food and Cooking </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(132).pdf" style="text-decoration:none;">The Universe in a Nutshell</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(133).pdf" style="text-decoration:none;">The World As I See It</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(134).pdf" style="text-decoration:none;">Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(132).pdf" style="text-decoration:none;">The Chemical History of a Candle</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(133).pdf" style="text-decoration:none;">Halogens and Noble Gases</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(134).pdf" style="text-decoration:none;">Periodic Tales: A Cultural History of the Elements, from Arsenic to Zinc </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(135).pdf" style="text-decoration:none;">Feynman Integral Calculus</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(135).pdf" style="text-decoration:none;">The Periodic Table: A Field Guide to the Elements</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(136).pdf" style="text-decoration:none;">Perfectly Reasonable Deviations from the Beaten Track</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(137).pdf" style="text-decoration:none;">Feynman Lectures on Computation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(138).pdf" style="text-decoration:none;">"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(139).pdf" style="text-decoration:none;">The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(140).pdf" style="text-decoration:none;">QED: The Strange Theory of Light and Matter  </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(141).pdf" style="text-decoration:none;">A Dictionary of Physics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(136).pdf" style="text-decoration:none;">Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(137).pdf" style="text-decoration:none;">The Chemical Bond: Chemical Bonding Across the Periodic Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(138).pdf" style="text-decoration:none;">The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(139).pdf" style="text-decoration:none;">The Last Sorcerers: The Path from Alchemy to the Periodic Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(140).pdf" style="text-decoration:none;">The Periodic Table: Its Story and Its Significance </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(141).pdf" style="text-decoration:none;">Uncle Tungsten: Memories of a Chemical Boyhood </a></li>
 
 
 
