@@ -2964,7 +2964,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(49).pdf" style="text-decoration:none;">Reagent Guide: Synthetic Organic Chemistry and Materials Chemistry</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(50).pdf" style="text-decoration:none;">The Pearson Guide to Physical Chemistry for the IIT JEE</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(51).pdf" style="text-decoration:none;">Physica Inorganic Chemistry: A Coordination Chemistry Approach</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(51).pdf" style="text-decoration:none;">Physical Inorganic Chemistry: A Coordination Chemistry Approach</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(52).pdf" style="text-decoration:none;">A Guidebook to Mechanism in Organic Chemistry</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(53).pdf" style="text-decoration:none;">Handbook on the Physics and Chemistry of Rare Earths</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/cyh(54).pdf" style="text-decoration:none;">Physical Chemistry</a></li>
