@@ -13,8 +13,8 @@
  <li class="toclevel-1 tocsection-8"><a href="#Glossary of chemistry"><span class="toctext">Glossary of chemistry</span></a></li>
  <li class="toclevel-1 tocsection-9"><a href="#Lists"><span class="toctext">Lists</span></a></li>
 <li class="toclevel-1 tocsection-10"><a href="#Books"><span class="toctext">Books</span></a></li>  
-<li class="toclevel-1 tocsection-10"><a href="#Famous Chemists"><span class="toctext">The Most Famous Chemists: Ten People who Changed Chemistry and the Way we Live</span></a></li> 
- 
+<li class="toclevel-1 tocsection-11"><a href="#Famous Chemists"><span class="toctext">The Most Famous Chemists: Ten People who Changed Chemistry and the Way we Live</span></a></li> 
+ <li class="toclevel-1 tocsection-12"><a href="#publications"><span class="toctext">List of important publications in chemistry</span></a></li> 
 </ul>
 </br>
 <h2><span id="Summary_of_chemistry" class="mw-headline">Summary of chemistry</span></h2>
@@ -3219,5 +3219,46 @@ Bioinorganic Chemistry: A Short Course</a></li>
 <p>Birth: 28 January 1903, Newbridge, County Kildare, Ireland</p>
 <p>Death: 1 April 1971 (aged 68), London, England</p>
 <p>Known for: the X-ray crystallography</p>
+
+</br>
+
+<h2 id ="publications">List of important publications in chemistry </h2>
+
+
+<ul>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(1).pdf">The Sceptical Chymist</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(2).pdf">Trait&eacute; &Eacute;l&eacute;mentaire de Chimie</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(3).pdf">The M&eacute;thode de nomenclature chimique (1787): A Document of Transition</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(4).pdf">A New System of Chemical Philosophy</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(5).rar">March's Advanced Organic Chemistry: Reactions, Mechanisms, and Structure</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(6).pdf">The Logic of Chemical Synthesis</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(7).pdf">Stereochemistry of Carbon Compounds</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(8).pdf">The Conservation of Orbital Symmetry</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(9).pdf">Chemical Applications of Group Theory</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(10).pdf">A Comprehensive Treatise on Inorganic and Theoretical Chemistry</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(11).pdf">Physical Chemistry (Atkins and de Paula)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(12).pdf">A Structure for Deoxyribose Nucleic Acid</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(13).pdf">Principles of Polymer Chemistry</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(14).pdf">Statistics for Experimenters: An Introduction to Design, Data Analysis, and Model Building</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(15).pdf">Stratospheric sink for chlorofluoromethanes: chlorine atom-catalysed destruction of ozone</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(16).pdf">On the Equilibrium of Heterogeneous Substances</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(17).pdf">Electrochemical Methods: Fundamentals and Applications</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(18).pdf">Valence and the structure of atoms and molecules</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(19).pdf">Introduction to Quantum Mechanics with Applications to Chemistry</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(20).pdf">The Nature of the Chemical Bond and the Structure of Molecules and Crystals; An Introduction to Modern Structural Chemistry</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(21).pdf">Supramolecular Chemistry &ndash; Scope and Perspectives; Molecules &ndash; Supermolecules &ndash; Molecular Devices</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(22).pdf">Density-Functional Theory of Atoms and Molecules</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(23).rar">The Practice of Medicinal Chemistry</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(24).pdf">The Chemical History of a Candle</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(25).pdf">The chemistry of insulin</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(26).pdf">The synthesis of ammonia from its elements</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(27).pdf">The Architecture of Molecules</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(28).pdf">Development of the theory of electrolytic dissociation</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(29).pdf">The development of the chemical high pressure method during the establishment of the new ammonia industry</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(30).pdf">On haemin and the relationships between haemin and chlorophyll</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(31).pdf">The transuranium elements: present status</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(32).pdf">The origins of the conceptions of isotopes</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(33).pdf">Methods to determine the electrical and geometrical structure of molecules</a></li>
+</ul>
 
 </br>
