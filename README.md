@@ -13,7 +13,7 @@
  <li class="toclevel-1 tocsection-8"><a href="#Glossary of chemistry"><span class="toctext">Glossary of chemistry</span></a></li>
  <li class="toclevel-1 tocsection-9"><a href="#Lists"><span class="toctext">Lists</span></a></li>
 <li class="toclevel-1 tocsection-10"><a href="#Books"><span class="toctext">Books</span></a></li>  
-<li class="toclevel-1 tocsection-10"><a href="#Chemists"><span class="toctext">The Most Famous Chemists: Ten People who Changed Chemistry and the Way we Live</span></a></li> 
+<li class="toclevel-1 tocsection-10"><a href="#Famous Chemists"><span class="toctext">The Most Famous Chemists: Ten People who Changed Chemistry and the Way we Live</span></a></li> 
  
 </ul>
 </br>
@@ -3119,7 +3119,7 @@ Bioinorganic Chemistry: A Short Course</a></li>
 
 </br>
 
-<h2 id="Chemists">The Most Famous Chemists: Ten People who Changed Chemistry and the Way we Live </h2>
+<h2 id="Famous Chemists">The Most Famous Chemists: Ten People who Changed Chemistry and the Way we Live </h2>
 
 <p><strong>[1]&nbsp;<a href="https://en.wikipedia.org/wiki/Antoine_Lavoisier" rel="nofollow">Antoine Lavoisier</a></strong></p>
 <p>Birth: 26 August 1743, Paris, France</p>
