@@ -3118,6 +3118,12 @@ Bioinorganic Chemistry: A Short Course</a></li>
 </ul>
 
 </br>
+<ul>
+<li><a href="https://manjunath5496.github.io/chemistry-quiz/index.html">Chemistry Quiz</a></li>
+</ul>
+
+</br>
+
 
 <h2 id="Famous Chemists">The Most Famous Chemists: Ten People who Changed Chemistry and the Way we Live </h2>
 
