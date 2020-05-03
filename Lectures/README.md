@@ -1,8 +1,8 @@
 <ul>
 <li class="title"><a href="#course1">Principles of Inorganic Chemistry II</a></li>
  <li class="title"><a href="#course2">Principles of Inorganic Chemistry III</a></li> 
+  <li class="title"><a href="#course3">Crystal Structure Refinement </a></li> 
 </ul>
-
 
 
 
@@ -89,6 +89,35 @@
 </tr>
 </tbody>
 </table>
+
+</br>
+
+
+<h2 id ="course3">Crystal Structure Refinement </h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>From crystal to diffraction pattern (<a href="MIT5_067F09_lec1_data.pdf" data-smd-id="s103">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The SHELX package (<a href="MIT5_067F09_lec2_shelx.pdf" data-smd-id="s104">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Hydrogen atoms (<a href="MIT5_067F09_lec3.pdf" data-smd-id="s105">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Disorder (<a href="MIT5_067F09_lec4.pdf" data-smd-id="s106">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Twinning (<a href="MIT5_067F09_lec5_twinning.pdf" data-smd-id="s107">PDF - 1.2MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Artefacts (<a href="MIT5_067F09_lec6_artefact.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
 
 
 
