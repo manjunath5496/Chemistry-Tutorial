@@ -58,7 +58,40 @@
 </br>
 <h2 id ="course2">Principles of Inorganic Chemistry III </h2>
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="alt-row">
+<td headers="col2">Aluminum Chemistry I (<a href="1/lecture_2.pdf" data-smd-id="s105">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Aluminum II (<a href="1/lecture_3.pdf" data-smd-id="s106">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Phosphorus (<a href="1/lecture_4.pdf" data-smd-id="s107">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Gallium and Indium (<a href="1/lecture_5.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Gallium Multiple Bonds (<a href="1/lecture_6.pdf" data-smd-id="s109">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Gallium, Phosphorus, and&nbsp;Tin (<a href="1/lecture_7.pdf" data-smd-id="s110">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Nitrogen, Halogens, Noble Gases (<a href="1/lecture_9.pdf" data-smd-id="s111">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Fluorine, Krypton (<a href="1/lecture_10.pdf" data-smd-id="s112">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Relativistic Effects (<a href="1/lecture_11.pdf" data-smd-id="s113">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Gold, Fluorine, Xenon</td>
+</tr>
+</tbody>
+</table>
 
 
 
