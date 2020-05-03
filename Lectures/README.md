@@ -1,5 +1,6 @@
 <ul>
 <li class="title"><a href="#course1">Principles of Inorganic Chemistry II</a></li>
+ <li class="title"><a href="#course2">Principles of Inorganic Chemistry III</a></li> 
 </ul>
 
 
@@ -54,3 +55,11 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course2">Principles of Inorganic Chemistry III </h2>
+
+
+
+
+
+
