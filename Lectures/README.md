@@ -87,9 +87,6 @@
 <tr class="alt-row">
 <td headers="col2">Relativistic Effects (<a href="1/lecture_11.pdf" data-smd-id="s113">PDF</a>)</td>
 </tr>
-<tr class="row">
-<td headers="col2">Gold, Fluorine, Xenon</td>
-</tr>
 </tbody>
 </table>
 
