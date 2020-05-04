@@ -625,5 +625,47 @@ caption for summary.">
 </table>
 </br>
 <h2 id ="course10">Introductory Quantum Mechanics I</h2>
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><em>Experimental Evidence for Quantum Mechanics</em>&nbsp;(<a href="sec1.pdf" data-smd-id="s104">PDF</a>)<br /><br />Polarization of Light<br /><br />Single Molecule Fluorescence</td>
+</tr>
+<tr class="alt-row">
+<td><em>The Machinery of Quantum Mechanics</em>&nbsp;(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s105" /><a href="sec2.pdf" data-smd-id="s106">PDF</a>)<br /><br />Hilbert Space<br /><br />State Vectors<br /><br />Bra-Ket<br /><br />Operators and Eigenvalues</td>
+</tr>
+<tr class="row">
+<td><em>Exactly Solvable Problems</em>&nbsp;(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s107" /><a href="sec3.pdf" data-smd-id="s108">PDF</a>)<br /><br />Operators and States in Real Space<br /><br />Harmonic Oscillator<br /><br />Position Representation and Wave Mechanics<br /><br />Piecewise Constant Potentials</td>
+</tr>
+<tr class="alt-row">
+<td><em>Matrix Mechanics</em>&nbsp;(<a href="sec4.pdf" data-smd-id="s109">PDF</a>)<br /><br />Vector Representation of States<br /><br />Matrices as Operators<br /><br />Interesting Matrix Properties<br /><br />Discrete Variable Representation<br /><br />Variational Method</td>
+</tr>
+<tr class="row">
+<td><em>Time Dependence</em>&nbsp;(<a href="sec5.pdf" data-smd-id="s110">PDF</a>)<br /><br />Energy Eigenstates and Stationary States<br /><br />The Propagator<br /><br />Time Dependence of Average Values<br /><br />Matrix Representations of the Propagator<br /><br />Example: Inversion of the Ammonia Molecule</td>
+</tr>
+<tr class="alt-row">
+<td><em>Angular Momentum</em>&nbsp;(<a href="sec6.pdf" data-smd-id="s111">PDF</a>)<br /><br />Rotations<br /><br />Commutation Relations<br /><br />Eigenstates</td>
+</tr>
+<tr class="row">
+<td><em>Central Potentials</em>&nbsp;(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s112" /><a href="sec7.pdf" data-smd-id="s113">PDF</a>)<br /><br />Spherical Polar Coordinates<br /><br />Orbital Angular Momentum Operators<br /><br />Spherical Harmonics<br /><br />The Radial Equation<br /><br />Hydrogen-like Atoms<br /><br />Electron Spin</td>
+</tr>
+<tr class="alt-row">
+<td><em>Addition of Angular Momenta</em>&nbsp;(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s114" /><a href="sec8.pdf" data-smd-id="s115">PDF</a>)<br /><br />Coupled and Uncoupled Bases<br /><br />Recursion Relations<br /><br />The Triangle Rule</td>
+</tr>
+<tr class="row">
+<td><em>Wigner-Eckart Theorem</em>&nbsp;(<a href="sec9.pdf" data-smd-id="s116">PDF</a>)<br /><br />Spherical Tensors</td>
+</tr>
+<tr class="alt-row">
+<td>Perturbation Theory (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s117" /><a href="sec10.pdf" data-smd-id="s118">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Identical Particles</em>&nbsp;(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s119" /><a href="sec11.pdf" data-smd-id="s120">PDF</a>)<br /><br />The Product Basis<br /><br />Symmetry Under Exchange<br /><br />Two Electron Atoms<br /><br />Hartree-Fock<br /><br />Perturbation Theory<br /><br />Configuration Interaction</td>
+</tr>
+<tr class="alt-row">
+<td><em>The Born-Oppenheimer Approximation</em>&nbsp;(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s121" /><a href="sec12.pdf" data-smd-id="s122">PDF</a>)<br /><br />The Adiabatic Approximation<br /><br />The Coupled Channel Hamiltonian<br /><br />Non-Adiabatic Effects<br /><br />Diabatic States<br /><br />Electron Transfer</td>
+</tr>
+<tr class="row">
+<td><em>The Hydrogen Molecule</em>&nbsp;(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s123" /><a href="sec13.pdf" data-smd-id="s124">PDF</a>)<br /><br />Minimal Atomic Orbital Basis<br /><br />Molecular Orbital Picture<br /><br />Valence Bond Picture</td>
+</tr>
+</tbody>
+</table>
 
