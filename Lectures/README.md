@@ -5,7 +5,7 @@
   <li class="title"><a href="#course4">Crystal Structure Analysis </a></li>
    <li class="title"><a href="#course5">Physical Chemistry </a></li>
   <li class="title"><a href="#course6">Physical Chemistry II </a></li>
- 
+   <li class="title"><a href="#course7">Computational Quantum Mechanics of Molecular and Extended Systems </a></li>
 </ul>
 </br>
 
@@ -506,4 +506,12 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course7">Computational Quantum Mechanics of Molecular and Extended Systems  </h2>
+
+
+
+
+
+
 
