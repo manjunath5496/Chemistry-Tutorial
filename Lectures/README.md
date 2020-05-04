@@ -3,6 +3,7 @@
  <li class="title"><a href="#course2">Principles of Inorganic Chemistry III</a></li> 
   <li class="title"><a href="#course3">Crystal Structure Refinement </a></li> 
   <li class="title"><a href="#course4">Crystal Structure Analysis </a></li>
+   <li class="title"><a href="#course5">Physical Chemistry </a></li>
 </ul>
 
 
@@ -204,3 +205,143 @@
 </tr>
 </tbody>
 </table>
+</br>
+
+<h2 id ="course5">Physical Chemistry </h2>
+
+<div class="maintabletemplate">
+<table class="tablewidth75">
+<tbody>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s106" /><a href="MIT5_61F17_lec1.pdf" data-smd-id="s107">Quantum Mechanics&mdash;Historical Background, Photoelectric Effect, Compton Scattering (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s108" /><a href="MIT5_61F17_lec2.pdf" data-smd-id="s109">Wave Nature of the Electron and the Internal Structure of an Atom (PDF)</a></p>
+<p><a href="MIT5_61F17_lec2_supp.pdf" data-smd-id="s110">Lecture 2 Supplement:&nbsp;Geiger&ndash;Marsden Revisited (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s111" /><a href="MIT5_61F17_lec3.pdf" data-smd-id="s112">Two-Slit Experiment, Quantum Weirdness (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s113" /><a href="MIT5_61F17_lec4.pdf" data-smd-id="s114">The Classical Wave Equation and Separation of Variables (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s115" /><a href="MIT5_61F17_lec5.pdf" data-smd-id="s116">Begin Quantum Mechanics: Free Particle and Particle in a 1D Box (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s117" /><a href="MIT5_61F17_lec6.pdf" data-smd-id="s118">3-D Box and Separation of Variables (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s119" /><a href="MIT5_61F17_lec7.pdf" data-smd-id="s120">Classical Mechanical Harmonic Oscillator (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s121" /><a href="MIT5_61F17_lec8.pdf" data-smd-id="s122">Quantum Mechanical Harmonic Oscillator (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s123" /><a href="MIT5_61F17_lec9.pdf" data-smd-id="s124">Harmonic Oscillator: Creation and Annihilation Operators (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s125" /><a href="MIT5_61F17_lec10.pdf" data-smd-id="s126">The Time-Dependent Schr&ouml;dinger Equation&nbsp;(PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT5_61F17_lec11.pdf" data-smd-id="s127">Wavepacket Dynamics for Harmonic Oscillator and PIB (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s128" /><a href="MIT5_61F17_lec11_supp.pdf" data-smd-id="s129">Lecture 11 Supplement:&nbsp;Nonstationary States of Quantum Mechanical Harmonic Oscillator (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s130" /><a href="MIT5_61F17_lec12.pdf" data-smd-id="s131">Looking Backward Before First Hour Exam: Postulate&nbsp;(PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT5_61F17_lec13_lec14.pdf" data-smd-id="s132">From H<sub>ij</sub>&nbsp;Integrals to H Matrices (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s133" /><a href="MIT5_61F17_lec15.pdf" data-smd-id="s134">Non-Degenerate Perturbation Theory I&nbsp;(PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s135" /><a href="MIT5_61F17_lec16.pdf" data-smd-id="s136">Non-Degenerate Perturbation Theory II: Harmonic Oscillators Using a,a<sup>&dagger;</sup>&nbsp;(PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s137" /><a href="MIT5_61F17_lec16_supp.pdf" data-smd-id="s138">Lecture 16 Supplement:&nbsp;Non-Degenerate Perturbation Theory III (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s139" /><a href="MIT5_61F17_lec17.pdf" data-smd-id="s140">Rigid Rotor I (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s141" /><a href="MIT5_61F17_lec18.pdf" data-smd-id="s142">Rigid Rotor II (PDF)&nbsp;</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s143" /><a href="MIT5_61F17_lec19.pdf" data-smd-id="s144">Spectroscopy: Probing Molecules with Light (PDF)</a>&nbsp;</p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s145" /><a href="MIT5_61F17_lec19_supp.pdf" data-smd-id="s146">Lecture 19 Supplement:&nbsp;Perturbation Theory: Matrix Notation, Applications to Dynamics (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s147" /><a href="MIT5_61F17_lec20.pdf" data-smd-id="s148">Hydrogen Atom I (PDF)&nbsp;</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s149" /><a href="MIT5_61F17_lec21.pdf" data-smd-id="s150">Hydrogen Atom II (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT5_61F17_lec22.pdf" data-smd-id="s151">Helium Atom (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT5_61F17_lec23.pdf" data-smd-id="s152">Many&ndash;Electron Atoms&nbsp;(PDF)</a></p>
+<p><a href="MIT5_61F17_lec23_supp.pdf" data-smd-id="s153">Lecture 23 Supplement:&nbsp;Slater Determinantal Matrix Elements (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s154" /><a href="MIT5_61F17_lec24.pdf" data-smd-id="s155">Molecular Orbital Theory, Matrix Mechanics and Variational Principle&nbsp;(PDF)</a>&nbsp;</p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s156" /><a href="MIT5_61F17_lec24_supp.pdf" data-smd-id="s157">Lecture 24 Supplement:&nbsp;General Eigenvalue Problem for LCAO-MO Expressed in Matrix Notation (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s158" /><a href="MIT5_61F17_lec25.pdf" data-smd-id="s159">Molecular Orbital Theory of Diatomic Molecules&nbsp;(PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s160" /><a href="MIT5_61F17_lec26.pdf" data-smd-id="s161">Qualitative MolecularOrbital Theory: H&uuml;ckel Theory (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT5_61F17_lec27.pdf" data-smd-id="s163">Non-Degenerate Perturbation Theory III&nbsp;(PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s164" /><a href="MIT5_61F17_lec28.pdf" data-smd-id="s165">Modern Electronic Structure Theory: Basis Sets&nbsp;(PDF)&nbsp;</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s166" /><a href="MIT5_61F17_lec28_29_notes.pdf" data-smd-id="s167">Modern Electronic Structure (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s168" /><a href="MIT5_61F17_lec29.pdf" data-smd-id="s169">Modern Electronic Structure Theory: Electron Correlation (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT5_61F17_lec30_lec31.pdf" data-smd-id="s170">Electronic Spectroscopy. Franck-Condon (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s171" /><a href="MIT5_61F17_lec32.pdf" data-smd-id="s172">Adiabatic&harr;Diabatic: Zewail&nbsp;(PDF)</a></p>
+<p><a href="MIT5_61F17_lec32_supp.pdf" data-smd-id="s173">Lecture 32 Supplement:&nbsp;Zewail Wavepacket Experiment (PDF - 1MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT5_61F17_lec33.pdf" data-smd-id="s174">Intermolecular Interactions&nbsp;(PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s175" /><a href="MIT5_61F17_lec34.pdf" data-smd-id="s176">Electronic Spectroscopy and Photochemistry (PDF - 1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT5_61F17_lec35.pdf" data-smd-id="s177">Delta-functions, Eigenfunctions of X, and Discrete Variable Representation&nbsp;(PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s178" /><a href="MIT5_61F17_lec36.pdf" data-smd-id="s179">Time Dependence of Two-Level Systems: Density Matrix, Rotating Wave Approximation&nbsp;(PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+
+
+
+
+
