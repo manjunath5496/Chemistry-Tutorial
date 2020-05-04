@@ -24,6 +24,7 @@
      <li class="title"><a href="#course23">Advanced Chemical Experimentation and Instrumentation</a></li>
     <li class="title"><a href="#course24">Biological Engineering Design</a></li>
    <li class="title"><a href="#course25">Biological Chemistry I</a></li>
+   <li class="title"><a href="#course26">Biological Chemistry II</a></li>
 </ul>
 </br>
 
@@ -1545,6 +1546,148 @@ caption for summary.">
 <li><a href="MIT5_07SCF13_Pset5.pdf">Problem Set 5 (PDF)</a></li>
 <li><a href="MIT5_07SCF13_Pset5_soln.pdf">Solutions to Problem Set 5 (PDF)</a></li>
 </ul>
+
+</br>
+
+<h2 id ="course26">Biological Chemistry II </h2>
+
+<table class="tablewidth100">
+<tbody>
+<tr class="row" style="height: 51px;">
+<td style="height: 51px;">
+<p><strong>Module 1: Translation<br /></strong></p>
+</td>
+</tr>
+<tr class="row" style="height: 79.375px;">
+<td style="height: 79.375px;">
+<p><a href="MIT5_08jS16r1_handout.pdf" data-smd-id="s217">Recitation 1 Handout (PDF)</a></p>
+<p><a href="MIT5_08jS16r1_packet.pdf" data-smd-id="s218">Recitation 1 Packet (PDF)</a></p>
+<p><a href="MIT5_08jS16r1_worksheet.pdf" data-smd-id="s219">PyMOL Worksheet (PDF)</a></p>
+</td>
+</tr>
+<tr class="row" style="height: 96px;">
+<td style="height: 96px;">
+<p>Pape, T., W. Wintermeyer, and M. Rodnina. &ldquo;<a href="003800.pdf" data-smd-id="s232"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s233" />Induced Fit in Initial Selection and Proofreading of Aminoacyl-tRNA on the Ribosome (PDF)</a>&rdquo;&nbsp;<em>EMBO J</em>&nbsp;1999, 18, 3800-3807.</p>
+<p><a href="MIT5_08jS16r2_questions.pdf" data-smd-id="s234">Recitation 2 Discussion Questions (PDF)</a></p>
+<p><a href="MIT5_08jS16r2_handout.pdf" data-smd-id="s235">Recitation 2 Pre-Steady-State Kinetics Handout (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 35px;">
+<td style="height: 35px;">
+<p><strong>Module 2: Protein Folding<br /></strong></p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 72px;">
+<td style="height: 72px;">
+<p>Pape, T., W. Wintermeyer, and M. Rodnina. &ldquo;<a href="003800.pdf" data-smd-id="s248"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s249" />Induced Fit in Initial Selection and Proofreading of Aminoacyl-tRNA on the Ribosome (PDF)</a>&rdquo;&nbsp;<em>EMBO J</em>&nbsp;1999, 18, 3800-3807.</p>
+<p><a href="MIT5_08jS16r3.pdf" data-smd-id="s250">Recitation 3 Radioactive Experiments Handout (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 133px;">
+<td style="height: 133px;">
+<p>Background: Mesa P., A. Deniaud, et al. &ldquo;<a href="https://www.ncbi.nlm.nih.gov/pubmed/23395510" data-smd-id="s263">Directly From the Source: Endogenous Preparations of Molecular Machines</a>&rdquo;&nbsp;<em>Curr Opin Struct Biol&nbsp;</em>2013, 23, 319-325.</p>
+<p>Case study: Youngman, E.M., R. Green. &ldquo;<a href="https://www.ncbi.nlm.nih.gov/pubmed/16076457" data-smd-id="s264">Affinity purification of in vivo-assembled ribosomes for in vitro biochemical analysis</a>&rdquo;&nbsp;<em>Methods</em>&nbsp;2005, 36, 305-312.</p>
+<p><a href="MIT5_08jS16r4_questions.pdf" data-smd-id="s265">Recitation 4 Discussion Questions (PDF)</a></p>
+<p><a href="MIT5_08jS16r4_handout.pdf" data-smd-id="s266">Recitation 4 Ribosome Purification Handout (PDF)</a></p>
+</td>
+</tr>
+<tr class="row" style="height: 35px;">
+<td style="height: 35px;">
+<p><strong>Module 3: Protein Degradation<br /></strong></p>
+</td>
+</tr>
+<tr class="row" style="height: 163px;">
+<td style="height: 163px;">
+<p><a href="MIT5_08jS16r5_overview.pdf" data-smd-id="s279">Recitation 5 Overview of Cross-Linking (PDF)</a></p>
+<p><a href="MIT5_08jS16r5_questions.pdf" data-smd-id="s280">Recitation 5 Discussion Questions (PDF)</a></p>
+<h3 class="subsubhead">Optional Reading</h3>
+<p><em>"<a href="1602163_CrosslinkingHB_lores.pdf" data-smd-id="s281"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s282" />Thermo Scientific Crosslinking Technical Handbook. Easy molecular bonding crosslinking technology: Reactivity chemistries, applications and structure references (PDF)</a></em>" Thermo Fisher Scientific Inc., 2012.</p>
+<p>Sinz, A. "<a href="a607eda9a0a23ee631faced825383222a68e.pdf" data-smd-id="s283">Chemical Cross-Linking and Mass Spectrometry to Map Three-Dimensional Protein Structures and Protein-Protein Interactions</a>"&nbsp;<em>Mass Spectrometry Reviews</em>&nbsp;2006, 25, 663-682.</p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 35px;">
+<td style="height: 35px;">
+<p><strong>Module 4: Polyketide and Nonribosomal Peptide Assembly Lines<br /></strong></p>
+</td>
+</tr>
+<tr class="row" style="height: 133px;">
+<td style="height: 133px;">
+<p>Background: DeRosier, D. &ldquo;<a href="https://www.ncbi.nlm.nih.gov/pubmed/20887850" data-smd-id="s293">3D Reconstruction from Electron Micrographs: A Personal Account of its Development</a>&rdquo;&nbsp;<em>Met Enzymol</em>&nbsp;481(2010):1-24.</p>
+<p>Case study: Brignole, E.J., S. Smith, and E.J. Asturias. &ldquo;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2653270/" data-smd-id="s294">Conformational Flexibility of Metazoan Fatty Acid Synthase Enables Catalysis</a>&rdquo;&nbsp;<em>Nat Struc Mol Biol</em>&nbsp;16(2009):190-197.</p>
+<p><a href="MIT5_08jS16r6_handout.pdf" data-smd-id="s295">Recitation 6 Handout (PDF)</a></p>
+<p><a href="MIT5_08jS16r6_questions.pdf" data-smd-id="s296">Recitation 6 Discussion Questions (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 35px;">
+<td style="height: 35px;">
+<p><strong>Module 5: Cholesterol Biosynthesis and Cholesterol Homeostasis</strong></p>
+</td>
+</tr>
+<tr class="row" style="height: 109px;">
+<td style="height: 109px;">
+<p>Aubin-Tam, M.E., A.O. Olivares, et al. &ldquo;<a href="nihms290400.pdf" data-smd-id="s306">Single-Molecule Protein Unfolding and Translocation by an ATP-fueled Proteolytic Machine</a>&rdquo;&nbsp;<em>Cell</em>&nbsp;2011, 145, 257-267.</p>
+<p>Cordova, J.C., A.O. Olivares, et al. "<a href="nihms616130.pdf" data-smd-id="s307">Stochastic but Highly Coordinated Protein Unfolding and Translocation by the ClpXP Proteolytic Machine</a>"&nbsp;<em>Cell</em>&nbsp;158(3), 2014, 647-658.</p>
+<p><a href="MIT5_08jS16r7_questions.pdf" data-smd-id="s308">Recitation 7 Discussion Questions (PDF)</a></p>
+</td>
+</tr>
+<tr class="row" style="height: 120px;">
+<td style="height: 120px;">
+<p>Ding, Q., A. Strong, K.M. Patel, et al. &ldquo;<a href="CIRCRESAHA.115.304351.pdf" data-smd-id="s321">Permanent Alteration of PCSK9 with in Vivo CRISPR-Cas9 Genome Editing</a>&rdquo;&nbsp;<em>Circulation Research</em>&nbsp;115, 488-492 2014.</p>
+<p>Lander, E.S. &ldquo;<a href="PIIS0092867415017055.pdf" data-smd-id="s322">The Heroes of CRISPR</a>&rdquo;&nbsp;<em>Cell</em>&nbsp;164(2016): 18-28.</p>
+<p>Peng, R., G. Lin, J. Li. &ldquo;<a href="febs.13586.pdf" data-smd-id="s323">Potential Pitfalls of CRISPR/Cas9-Mediated Genome editing</a>"&nbsp;<em>The FEBS Journal</em>&nbsp;283, no.7, 2016, 1218-1231.</p>
+<p><a href="MIT5_08jS16r8.pdf" data-smd-id="s324">Recitation 8 CRISPR Reading (PDF)</a></p>
+</td>
+</tr>
+<tr class="row" style="height: 72px;">
+<td style="height: 72px;">
+<p>Radhakrishnan, A., J.L. Goldstein, et al. &ldquo;<a href="nihms82966.pdf" data-smd-id="s337">Switch-like Control of SREBP-2 Transport Triggered by Small Changes in ER Cholesterol: A Delicate Balance</a>&rdquo;&nbsp;<em>Cell Metabolism</em>&nbsp;2008 8, 512-521.</p>
+<p><a href="MIT5_08jS16r9.pdf" data-smd-id="s338">Recitation 9 Cholesterol Homeostasis (PDF)</a></p>
+</td>
+</tr>
+<tr class="row" style="height: 35px;">
+<td style="height: 35px;">
+<p><strong>Module 6: Metal Ion Homeostasis</strong></p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 122px;">
+<td style="height: 122px;">
+<p>Xiao, Z., and A.G. Wedd. &ldquo;<a href="XiaoNPRreview2010.pdf" data-smd-id="s351">The Challenges of Determining Metal-Protein Affinities</a>.&rdquo;&nbsp;<em>Nat Prod Rep</em>&nbsp;27(2010):768-789. Read sections 1 - 3.3.2 (pg. 768-772)</p>
+<p>Lisher, J.P., and D.P. Giedroc. &ldquo;<a href="fcimb-03-00091.pdf" data-smd-id="s352">Manganese Acquisition and Homeostasis at the Host-Pathogen interface</a>.&rdquo;&nbsp;&nbsp;<em>Front Cell Infect Microbiol</em>&nbsp;3(2013):91. Read sections on entitled &ldquo;Structural studies of bacterial manganese import systems,&rdquo; &ldquo;Host sequestration of transition metal ions,&rdquo; and &ldquo;Calprotectin: structural, metal binding and functional properties&rdquo;(pg. 8-10)</p>
+<p><a href="MIT5_08jS16r10.pdf" data-smd-id="s353">Recitation 10 Metal-Binding and Dissociation Constant (PDF)</a></p>
+</td>
+</tr>
+<tr class="row" style="height: 109px;">
+<td style="height: 109px;">
+<p>Seo, Y.H., and K.S. Carroll. &ldquo;<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201007175" data-smd-id="s363">Quantification of Protein Sulfenic Acid Modifications Using Isotope-Coded Dimedone and Iododimedone</a>.&rdquo;&nbsp;<em>Angew Chem Int Ed&nbsp;</em>50(2011):1342-5.</p>
+<p>C.E. Paulsen et al. &ldquo;<a href="https://www.nature.com/articles/nchembio.736" data-smd-id="s364">Peroxide-Dependent Sulfenylation of the EFGR Catalytic Site Enhances Kinase Activity</a>.&rdquo;&nbsp;&nbsp;<em>Nat Chem Biol</em>&nbsp;8(2011)<em>:</em>57-64.</p>
+<p><a href="MIT5_08jS16r11.pdf" data-smd-id="s365">Recitation 11 Mass Spectrometry (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 35px;">
+<td style="height: 35px;">
+<p><strong>Module 7: Reactive Oxygen Species (ROS)</strong></p>
+</td>
+</tr>
+<tr class="row" style="height: 72px;">
+<td style="height: 72px;">
+<p>Deng, X. et. al. &ldquo;<a href="Journal of Bacteriology-2014-Deng-2499.full.pdf" data-smd-id="s375">Steady State Hydrogen Peroxide Induces Glycolysis in Staphylococcus aureus and Pseudomonas aeruginosa</a>.&rdquo;&nbsp;<em>J Bacteriol</em>&nbsp;196(2014): 2499-513.</p>
+<p><a href="MIT5_08jS16r12.pdf" data-smd-id="s376">Recitation 12 Intracellular Proteome Analysis via MS (PDF)</a></p>
+</td>
+</tr>
+<tr class="row" style="height: 35px;">
+<td style="height: 35px;">
+<p><strong>Module 8: Nucleotide Metabolism</strong></p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 52px;">
+<td style="height: 52px;">A. Zhao, M. Tsechansky, et al. &ldquo;<a href="nihms-622413.pdf" data-smd-id="s389">Revisiting and Revising the Purinosome</a>.&rdquo;&nbsp;<em>Mol Biosyst</em>&nbsp;10(2014): 369-74.<br /><br />Critically evaluate: An, S., R. Kumar, et al. &ldquo;<a href="Reversible_Compartmentalization_of_de_Novo_Purine_.pdf" data-smd-id="s390">Reversible Compartmentalization of de novo Purine Biosynthetic Complexes in Living Cells</a>.&rdquo;&nbsp;<em>Science</em>&nbsp;320(2008): 103-106.</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
 
 
 
