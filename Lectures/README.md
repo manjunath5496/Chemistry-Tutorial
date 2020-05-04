@@ -975,5 +975,84 @@ caption for summary.">
 
 
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Strategies for Stereocontrolled Synthesis I (<a href="2_28_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Strategies for Stereocontrolled Synthesis II (<a href="3_02_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Strategies for Stereocontrolled Synthesis III (<a href="3_04_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Strategies for Stereocontrolled Synthesis IV (<a href="3_07_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Strategies for Stereocontrolled Synthesis&nbsp;V (<a href="3_09_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Strategies for Stereocontrolled Synthesis VI (<a href="3_11_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stereocontrolled Alkylation I&nbsp; (<a href="3_16_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stereocontrolled Alkylation II (<a href="3_18_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stereocontrolled Alkylation III (<a href="3_28_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stereocontrolled Alkylation IV (<a href="3_30_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stereocontrolled Conjugate Addition I (<a href="4_1_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stereocontrolled Conjugate Addition II (<a href="4_4_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stereocontrolled Conjugate Addition III (<a href="4_6_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stereocontrolled 1,2 Addition to Carbonyls I (<a href="4_8_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stereocontrolled 1,2 Addition to Carbonyls II (<a href="4_11_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Addition of Allylmetals to Carbonyls I (<a href="4_13_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Addition of Allylmetals to Carbonyls II (<a href="4_15_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Addition of Allylmetals to Carbonyls III (<a href="4_20_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stereocontrolled Aldol Reactions I (<a href="4_22_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stereocontrolled Aldol Reactions II (<a href="4_25_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Aldol Reactions III and Stereocontrolled Carbonyl Reduction (<a href="4_27_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stereocontrolled Carbonyl and Alkene Reduction (<a href="4_29_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stereocontrolled Alkene Reduction and Hydroboration (<a href="5_2_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stereocontrolled Dihydroxylation and Epoxidation I (<a href="5_4_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stereocontrolled Epoxidation II (<a href="5_6_05.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
 
