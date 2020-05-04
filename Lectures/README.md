@@ -22,7 +22,7 @@
    <li class="title"><a href="#course21">Organic Chemistry II</a></li>
     <li class="title"><a href="#course22">Organic Chemistry I</a></li>
      <li class="title"><a href="#course23">Advanced Chemical Experimentation and Instrumentation</a></li>
- 
+    <li class="title"><a href="#course24">Biological Engineering Design</a></li>
 </ul>
 </br>
 
@@ -1481,7 +1481,43 @@ caption for summary.">
 </tr>
 </tbody>
 </table>
+</br>
 
+<h2 id ="course24">Biological Engineering Design </h2>
 
-
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Introduction to the course</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s103" /><a href="MIT20_380JS10_lec01_intro.pdf" data-smd-id="s104">PDF - 2.3MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Background: Inflammation in healthy immune response</td>
+<td><span class="nobr">(<a href="MIT20_380JS10_lec01_di.pdf" data-smd-id="s105">PDF - 1.2MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Background: Inflammation in obesity and diabetes</td>
+<td><span class="nobr">(<a href="MIT20_380JS10_lec03_fw.pdf" data-smd-id="s109">PDF - 5.0MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Background: Inflammation in cardiovascular disease</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s113" /><a href="MIT20_380JS10_lec04_je.pdf" data-smd-id="s114">PDF - 8.3MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Workshop: Regulatory agencies and clinical trials</td>
+<td><span class="nobr">(<a href="MIT20_380JS10_lec15_je.pdf" data-smd-id="s131">PDF - 1.3MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Workshop: Signaling networks</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s132" /><a href="MIT20_380JS10_wk17_fw.pdf" data-smd-id="s133">PDF - 2.0MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Workshop: Drug targeting</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s134" /><a href="MIT20_380JS10_wk18_di_trgt.pdf" data-smd-id="s135">PDF - 2.0MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Workshop: Drug carriers</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s136" /><a href="MIT20_380JS10_wk18_fw_care.pdf" data-smd-id="s137">PDF - 1.9MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
