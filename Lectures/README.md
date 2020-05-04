@@ -16,6 +16,9 @@
   <li class="title"><a href="#course15">Organic Structure Determination</a></li>
    <li class="title"><a href="#course16">Thermodynamics of Biomolecular Systems</a></li>
    <li class="title"><a href="#course17">Advanced Organic Chemistry</a></li>
+    <li class="title"><a href="#course18">Introduction to Organic Synthesis Laboratory</a></li>
+ 
+ 
 </ul>
 </br>
 
@@ -1216,6 +1219,42 @@ caption for summary.">
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course18">Introduction to Organic Synthesis Laboratory</h2>
 
-
-
+<div class="maintabletemplate">
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Diels-Alder reaction, part I (<a href="MIT5_37s09_lec01_Handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Diels-Alder reaction, part II (<a href="MIT5_37s09_lec02_Handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Diels-Alder reaction, part III (<a href="MIT5_37s09_lec03_Handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Diels-Alder reaction, part IV (<a href="MIT5_37s09_lec04_Handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to organic synthesis (<a href="MIT5_37s09_lec05_Handout.pdf">PDF</a>)
+<p>Lecture slides (<a href="MIT5_37s09_lec05_PPT.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 class="subhead">&nbsp;</h2>
+<div class="maintabletemplate">
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>The Diels-Alder reaction (<a href="MIT5_37s09_lec01_Mod7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Theory and "Swager Centric" applications (<a href="MIT5_37s09_lec02_Mod7.pdf">PDF&nbsp;‑&nbsp;4.2MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</div>
