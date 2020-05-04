@@ -9,9 +9,9 @@
     <li class="title"><a href="#course8">Kinetics of Chemical Reactions </a></li>
  <li class="title"><a href="#course9">Non-Equilibrium Statistical Mechanics </a></li>
   <li class="title"><a href="#course10">Introductory Quantum Mechanics I </a></li>
+  <li class="title"><a href="#course11">Introductory Quantum Mechanics II </a></li>
 </ul>
 </br>
-
 
 
 <h2 id ="course1">Principles of Inorganic Chemistry II </h2>
@@ -668,4 +668,75 @@ caption for summary.">
 </tr>
 </tbody>
 </table>
+</br>
+
+<h2 id ="course11">Introductory Quantum Mechanics II </h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="alt-row">
+<td>Time-independent&nbsp;Hamiltonian (<a href="MIT5_74s09_lec01.pdf">PDF - 1.8MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Time-dependent Hamiltonian (<a href="MIT5_74s09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Irreversible relaxation (<a href="MIT5_74s09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Classical description of spectroscopy (<a href="MIT5_74s09_lec04_1.pdf">PDF</a>)</p>
+<p>Interaction of light and matter (<a href="MIT5_74s09_lec04_2.pdf">PDF</a>)</p>
+<p>Absorption cross-section (<a href="MIT5_74s09_lec04_3.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Time correlation functions (<a href="MIT5_74s09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Absorption lineshapes (<a href="MIT5_74s09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Linear response theory (<a href="MIT5_74s09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Displaced harmonic oscillator (<a href="MIT5_74s09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fluctuations: Gaussian stochastic model (<a href="MIT5_74s09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fluctuations: energy gap Hamiltonian (<a href="MIT5_74s09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Vibrational relaxation (<a href="MIT5_74s09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Density matrix (<a href="MIT5_74s09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Nonlinear spectroscopy boot camp</strong></td>
+</tr>
+<tr class="row">
+<td>Nonlinear polarization (<a href="MIT5_74s09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Diagrammatic perturbation theory (<a href="MIT5_74s09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Third order spectroscopy (<a href="MIT5_74s09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Characterizing Fluctuations (<a href="MIT5_74s09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Two-dimensional spectroscopy (<a href="MIT5_74s09_lec17.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
 
