@@ -346,5 +346,164 @@
 
 <h2 id ="course6">Physical Chemistry II </h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Review of thermodynamics</td>
+<td>(<a href="01_562ln08.pdf" data-smd-id="s104">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>E, A, and S: macroscopic properties for microscopic probabilities {P<sub>i</sub>}</td>
+<td>(<a href="02_562ln08.pdf" data-smd-id="s105">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Canonical partition function: replace {P<sub>i</sub>} by Q</td>
+<td>(<a href="03_562ln08.pdf" data-smd-id="s106">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Microcanonical ensemble: replace {P<sub>i</sub>} by &Omega;, Q vs. &Omega;</td>
+<td>(<a href="04_562ln08.pdf" data-smd-id="s107">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Molecular partition function: replace E (assembly) by &epsilon; (molecule)</td>
+<td>(<a href="05_562ln08.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Q corrected for molecular indistinguishability</td>
+<td>(<a href="06_562ln08.pdf" data-smd-id="s109">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Translational part of Boltzmann partition function</td>
+<td>(<a href="07_562ln08.pdf" data-smd-id="s110">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Boltzmann, Fermi-Dirac, and Bose-Einstein statistics</td>
+<td>(<a href="08_562ln08.pdf" data-smd-id="s111">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Calculation of macroscopic properties from microscopic energy levels: q<sub>trans</sub></td>
+<td>(<a href="09_562ln08.pdf" data-smd-id="s112">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Quantum vs. classical q<sub>trans</sub></p>
+<p>Equipartition</p>
+<p>Internal degrees of freedom</p>
+</td>
+<td>(<a href="10_562ln08.pdf" data-smd-id="s113">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Internal degrees of freedom for atoms and diatomic molecules</td>
+<td>(<a href="11_562ln08.pdf" data-smd-id="s114">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Rotational partition function</p>
+<p>Equipartition</p>
+</td>
+<td>(<a href="12_562ln08.pdf" data-smd-id="s115">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Nuclear spin statistics: symmetry number, &sigma; Low temperature limit for rotational partition function</td>
+<td>
+<p>(<a href="13_562ln08.pdf" data-smd-id="s116">PDF</a>)</p>
+<p>Supplement (<a href="13s_562ln08.pdf" data-smd-id="s117">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Low and high-T limits for q<sub>rot</sub>&nbsp;and q<sub>vib</sub></td>
+<td>(<a href="14_562ln08.pdf" data-smd-id="s118">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Polyatomic molecules: rotation and vibration</td>
+<td>(<a href="15_562ln08.pdf" data-smd-id="s119">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Chemical equilibrium I</td>
+<td>(<a href="16_562ln08.pdf" data-smd-id="s120">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Chemical equilibrium II</td>
+<td>(<a href="17_562ln08.pdf" data-smd-id="s121">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Model intermolecular potentials</td>
+<td>(<a href="18_562ln08.pdf" data-smd-id="s122">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Configurational integral: cluster expansion</td>
+<td>(<a href="19_562ln08.pdf" data-smd-id="s123">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Virial equation of state</td>
+<td>(<a href="20_562ln08.pdf" data-smd-id="s124">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Thermodynamics of solid: Einstein and Debye models</td>
+<td>
+<p>(<a href="21_562ln08.pdf" data-smd-id="s125">PDF</a>)</p>
+<p>Supplement (<a href="21s_562ln08.pdf" data-smd-id="s126">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Einstein and Debye solids</td>
+<td>(<a href="22_562ln08.pdf" data-smd-id="s127">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Phonons: 1-D linear chain of atoms</td>
+<td>(<a href="23_562ln08.pdf" data-smd-id="s128">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Free electron theory of a metal</td>
+<td>(<a href="24_562ln08.pdf" data-smd-id="s129">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Heat capacity in metals</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Band theory of solids</td>
+<td>(<a href="26_562ln08.pdf" data-smd-id="s130">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Crystal phase equilibria</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Kinetic theory of gases: Maxwell-Boltzmann distribution</td>
+<td>(<a href="28_562ln08.pdf" data-smd-id="s131">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Kinetic theory of gases: effusion and collisions</td>
+<td>(<a href="29_562ln08.pdf" data-smd-id="s132">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Kinetic theory of gases: collision dynamics and scattering</td>
+<td>(<a href="30_562ln08.pdf" data-smd-id="s133">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Kinetic theory of gases: mean free path and transport</td>
+<td>(<a href="31_562ln08.pdf" data-smd-id="s134">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Kinetic theory of gases: transport coefficients</td>
+<td>(<a href="32_562ln08.pdf" data-smd-id="s135">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Transition state theory I</td>
+<td>(<a href="33_562ln08.pdf" data-smd-id="s136">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Transition state theory II</p>
+<p>Kinetic isotope effect</p>
+</td>
+<td>(<a href="34_562ln08.pdf" data-smd-id="s137">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Rates of unimolecular reactions: RRKM</td>
+<td>(<a href="36_562ln08.pdf" data-smd-id="s138">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
