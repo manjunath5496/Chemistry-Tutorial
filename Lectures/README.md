@@ -1580,7 +1580,6 @@ caption for summary.">
 </tr>
 <tr class="alt-row" style="height: 72px;">
 <td style="height: 72px;">
-<p>Pape, T., W. Wintermeyer, and M. Rodnina. &ldquo;<a href="2/003800.pdf" data-smd-id="s248"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s249" />Induced Fit in Initial Selection and Proofreading of Aminoacyl-tRNA on the Ribosome (PDF)</a>&rdquo;&nbsp;<em>EMBO J</em>&nbsp;1999, 18, 3800-3807.</p>
 <p><a href="2/MIT5_08jS16r3.pdf" data-smd-id="s250">Recitation 3 Radioactive Experiments Handout (PDF)</a></p>
 </td>
 </tr>
@@ -1601,7 +1600,6 @@ caption for summary.">
 <p><a href="2/MIT5_08jS16r5_questions.pdf" data-smd-id="s280">Recitation 5 Discussion Questions (PDF)</a></p>
 <h3 class="subsubhead">Optional Reading</h3>
 <p><em>"<a href="2/1602163_CrosslinkingHB_lores.pdf" data-smd-id="s281"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s282" />Thermo Scientific Crosslinking Technical Handbook. Easy molecular bonding crosslinking technology: Reactivity chemistries, applications and structure references (PDF)</a></em>" Thermo Fisher Scientific Inc., 2012.</p>
-<p>Sinz, A. "<a href="2/a607eda9a0a23ee631faced825383222a68e.pdf" data-smd-id="s283">Chemical Cross-Linking and Mass Spectrometry to Map Three-Dimensional Protein Structures and Protein-Protein Interactions</a>"&nbsp;<em>Mass Spectrometry Reviews</em>&nbsp;2006, 25, 663-682.</p>
 </td>
 </tr>
 <tr class="alt-row" style="height: 35px;">
@@ -1611,7 +1609,6 @@ caption for summary.">
 </tr>
 <tr class="row" style="height: 133px;">
 <td style="height: 133px;">
-
 <p><a href="2/MIT5_08jS16r6_handout.pdf" data-smd-id="s295">Recitation 6 Handout (PDF)</a></p>
 <p><a href="2/MIT5_08jS16r6_questions.pdf" data-smd-id="s296">Recitation 6 Discussion Questions (PDF)</a></p>
 </td>
@@ -1632,7 +1629,7 @@ caption for summary.">
 <td style="height: 120px;">
 <p>Ding, Q., A. Strong, K.M. Patel, et al. &ldquo;<a href="2/CIRCRESAHA.115.304351.pdf" data-smd-id="s321">Permanent Alteration of PCSK9 with in Vivo CRISPR-Cas9 Genome Editing</a>&rdquo;&nbsp;<em>Circulation Research</em>&nbsp;115, 488-492 2014.</p>
 <p>Lander, E.S. &ldquo;<a href="2/PIIS0092867415017055.pdf" data-smd-id="s322">The Heroes of CRISPR</a>&rdquo;&nbsp;<em>Cell</em>&nbsp;164(2016): 18-28.</p>
-<p>Peng, R., G. Lin, J. Li. &ldquo;<a href="febs.13586.pdf" data-smd-id="s323">Potential Pitfalls of CRISPR/Cas9-Mediated Genome editing</a>"&nbsp;<em>The FEBS Journal</em>&nbsp;283, no.7, 2016, 1218-1231.</p>
+<p>Peng, R., G. Lin, J. Li. &ldquo;<a href="2/febs.13586.pdf" data-smd-id="s323">Potential Pitfalls of CRISPR/Cas9-Mediated Genome editing</a>"&nbsp;<em>The FEBS Journal</em>&nbsp;283, no.7, 2016, 1218-1231.</p>
 <p><a href="2/MIT5_08jS16r8.pdf" data-smd-id="s324">Recitation 8 CRISPR Reading (PDF)</a></p>
 </td>
 </tr>
@@ -1650,13 +1647,12 @@ caption for summary.">
 <tr class="alt-row" style="height: 122px;">
 <td style="height: 122px;">
 <p>Xiao, Z., and A.G. Wedd. &ldquo;<a href="2/XiaoNPRreview2010.pdf" data-smd-id="s351">The Challenges of Determining Metal-Protein Affinities</a>.&rdquo;&nbsp;<em>Nat Prod Rep</em>&nbsp;27(2010):768-789. Read sections 1 - 3.3.2 (pg. 768-772)</p>
-<p>Lisher, J.P., and D.P. Giedroc. &ldquo;<a href="fcimb-03-00091.pdf" data-smd-id="s352">Manganese Acquisition and Homeostasis at the Host-Pathogen interface</a>.&rdquo;&nbsp;&nbsp;<em>Front Cell Infect Microbiol</em>&nbsp;3(2013):91. Read sections on entitled &ldquo;Structural studies of bacterial manganese import systems,&rdquo; &ldquo;Host sequestration of transition metal ions,&rdquo; and &ldquo;Calprotectin: structural, metal binding and functional properties&rdquo;(pg. 8-10)</p>
-<p><a href="MIT5_08jS16r10.pdf" data-smd-id="s353">Recitation 10 Metal-Binding and Dissociation Constant (PDF)</a></p>
+<p>Lisher, J.P., and D.P. Giedroc. &ldquo;<a href="2/fcimb-03-00091.pdf" data-smd-id="s352">Manganese Acquisition and Homeostasis at the Host-Pathogen interface</a>.&rdquo;&nbsp;&nbsp;<em>Front Cell Infect Microbiol</em>&nbsp;3(2013):91. Read sections on entitled &ldquo;Structural studies of bacterial manganese import systems,&rdquo; &ldquo;Host sequestration of transition metal ions,&rdquo; and &ldquo;Calprotectin: structural, metal binding and functional properties&rdquo;(pg. 8-10)</p>
+<p><a href="2/MIT5_08jS16r10.pdf" data-smd-id="s353">Recitation 10 Metal-Binding and Dissociation Constant (PDF)</a></p>
 </td>
 </tr>
 <tr class="row" style="height: 109px;">
 <td style="height: 109px;">
-
 <p><a href="2/MIT5_08jS16r11.pdf" data-smd-id="s365">Recitation 11 Mass Spectrometry (PDF)</a></p>
 </td>
 </tr>
@@ -1677,11 +1673,10 @@ caption for summary.">
 </td>
 </tr>
 <tr class="alt-row" style="height: 52px;">
-<td style="height: 52px;">A. Zhao, M. Tsechansky, et al. &ldquo;<a href="nihms-622413.pdf" data-smd-id="s389">Revisiting and Revising the Purinosome</a>.&rdquo;&nbsp;<em>Mol Biosyst</em>&nbsp;10(2014): 369-74.<br /><br />Critically evaluate: An, S., R. Kumar, et al. &ldquo;<a href="2/Reversible_Compartmentalization_of_de_Novo_Purine_.pdf" data-smd-id="s390">Reversible Compartmentalization of de novo Purine Biosynthetic Complexes in Living Cells</a>.&rdquo;&nbsp;<em>Science</em>&nbsp;320(2008): 103-106.</td>
+<td style="height: 52px;">A. Zhao, M. Tsechansky, et al. &ldquo;<a href="2/nihms-622413.pdf" data-smd-id="s389">Revisiting and Revising the Purinosome</a>.&rdquo;&nbsp;<em>Mol Biosyst</em>&nbsp;10(2014): 369-74.<br /><br />Critically evaluate: An, S., R. Kumar, et al. &ldquo;<a href="2/Reversible_Compartmentalization_of_de_Novo_Purine_.pdf" data-smd-id="s390">Reversible Compartmentalization of de novo Purine Biosynthetic Complexes in Living Cells</a>.&rdquo;&nbsp;<em>Science</em>&nbsp;320(2008): 103-106.</td>
 </tr>
 </tbody>
 </table>
-
 
 
 
