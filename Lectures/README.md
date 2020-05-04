@@ -18,6 +18,7 @@
    <li class="title"><a href="#course17">Advanced Organic Chemistry</a></li>
     <li class="title"><a href="#course18">Introduction to Organic Synthesis Laboratory</a></li>
  <li class="title"><a href="#course19">Introduction to Experimental Chemistry</a></li>
+  <li class="title"><a href="#course20">Biochemistry Laboratory</a></li>
 </ul>
 </br>
 
@@ -1267,6 +1268,49 @@ caption for summary.">
 <li>Lab 3 - Chemical Kinetics (<a href="3_kinetics_2005b.pdf">PDF</a>)</li>
 <li>Lab 4 - Organic Chemistry: Compounds with Interesting Properties (<a href="IV_Organic_2005b.pdf">PDF</a>)</li>
 </ul>
+</br>
+<h2 id ="course20">Biochemistry Laboratory </h2>
 
-
-
+<table summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Introduction. Kinases in healthy and cancerous cells</td>
+<td>
+<p>Lecture 1 handout (<a href="536lecntwtbnk_1.pdf" data-smd-id="s103">PDF</a>)</p>
+<p>Lecture 1 slides (<a href="Slides1.pdf" data-smd-id="s104">PDF - 4.7 MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>DNA digestion and PCR</td>
+<td>
+<p>Lecture 2 handout (<a href="536lecntwtbnk_2.pdf" data-smd-id="s105">PDF</a>)</p>
+<p>Lecture 2 slides (<a href="Slide2.pdf" data-smd-id="s106">PDF - 2.3 MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Affinity tags for protein purification/detection</td>
+<td>
+<p>Lecture 3 handout (<a href="536lecntwtbnk_3.pdf" data-smd-id="s107">PDF</a>)</p>
+<p>Lecture 3 slides (<a href="Slides3.pdf" data-smd-id="s108">PDF - 1.2 MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Conserved and variable structural features of kinase domains</td>
+<td>
+<p>Lecture 4 handout (<a href="536lecntwthbnk_4.pdf" data-smd-id="s109">PDF</a>)</p>
+<p>Lecture 4 slides (<a href="slides4.pdf" data-smd-id="s110">PDF - 1.8 MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Site directed mutagenesis (Quikchange method)</td>
+<td>Lecture 5 handout (<a href="536lecntwtbnk_5.pdf" data-smd-id="s111">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Detecting kinase activity</td>
+<td>
+<p>Lecture 6 handout (<a href="536lecntwthbnk_6.pdf" data-smd-id="s112">PDF</a>)</p>
+<p>Lecture 6 slides (<a href="Slides6.pdf" data-smd-id="s113">PDF - 2.8 MB</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
