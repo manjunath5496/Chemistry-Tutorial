@@ -17,8 +17,7 @@
    <li class="title"><a href="#course16">Thermodynamics of Biomolecular Systems</a></li>
    <li class="title"><a href="#course17">Advanced Organic Chemistry</a></li>
     <li class="title"><a href="#course18">Introduction to Organic Synthesis Laboratory</a></li>
- 
- 
+ <li class="title"><a href="#course19">Introduction to Experimental Chemistry</a></li>
 </ul>
 </br>
 
@@ -1258,3 +1257,16 @@ caption for summary.">
 </tbody>
 </table>
 </div>
+</br>
+
+<h2 id ="course19">Introduction to Experimental Chemistry </h2>
+
+<ul>
+<li>Lab 1 - Chemical Equilibrium (<a href="I_chem_eq_2005b.pdf">PDF</a>)</li>
+<li>Lab 2 - Redox Chemistry (<a href="II_Redox_chem_2005b.pdf">PDF</a>)</li>
+<li>Lab 3 - Chemical Kinetics (<a href="3_kinetics_2005b.pdf">PDF</a>)</li>
+<li>Lab 4 - Organic Chemistry: Compounds with Interesting Properties (<a href="IV_Organic_2005b.pdf">PDF</a>)</li>
+</ul>
+
+
+
