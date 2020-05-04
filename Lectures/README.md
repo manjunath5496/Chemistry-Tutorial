@@ -4,7 +4,10 @@
   <li class="title"><a href="#course3">Crystal Structure Refinement </a></li> 
   <li class="title"><a href="#course4">Crystal Structure Analysis </a></li>
    <li class="title"><a href="#course5">Physical Chemistry </a></li>
+  <li class="title"><a href="#course6">Physical Chemistry II </a></li>
+ 
 </ul>
+</br>
 
 
 
@@ -341,7 +344,7 @@
 </div>
 <p>&nbsp;</p>
 
-
+<h2 id ="course7">Physical Chemistry II </h2>
 
 
 
