@@ -23,6 +23,7 @@
     <li class="title"><a href="#course22">Organic Chemistry I</a></li>
      <li class="title"><a href="#course23">Advanced Chemical Experimentation and Instrumentation</a></li>
     <li class="title"><a href="#course24">Biological Engineering Design</a></li>
+   <li class="title"><a href="#course25">Biological Chemistry I</a></li>
 </ul>
 </br>
 
@@ -1521,3 +1522,30 @@ caption for summary.">
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course25">Biological Chemistry I </h2>
+
+<ul>
+<li><a href="MIT5_07SCF13_Lec1.pdf">What is Biochemistry? (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Pset1.pdf">Problem Set 1 (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Pset1_soln.pdf">Solutions to Problem Set 1 (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Lec2_3.pdf">Introduction to Protein Structure and Function&nbsp;<span class="nobr">(PDF - 1.2MB)</span></a></li>
+<li><a href="MIT5_07SCF13_Lec4.pdf">Protein Structure and Function Continued (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Lec5_6.pdf">Enzymes and Catalysis (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Pset2.pdf">Problem Set 2 (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Pset2_soln.pdf">Solutions to Problem Set 2 (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Lec7_8.pdf">Enzymes Kinetics and Enzyme Inhibition (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Pset3.pdf">Problem Set 3 (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Pset3_soln.pdf">Solutions to Problem Set 3 (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Lec9.pdf">Biochemical Transformations I (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Pset4.pdf">Problem Set 4 (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Pset4_soln.pdf">Solutions to Problem Set 4 (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Lec10.pdf">Biochemical Transformations II (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Lec11_12.pdf">Biochemical Transformations III (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Pset5.pdf">Problem Set 5 (PDF)</a></li>
+<li><a href="MIT5_07SCF13_Pset5_soln.pdf">Solutions to Problem Set 5 (PDF)</a></li>
+</ul>
+
+
+
+
