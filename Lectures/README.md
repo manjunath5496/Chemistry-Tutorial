@@ -6,6 +6,7 @@
    <li class="title"><a href="#course5">Physical Chemistry </a></li>
   <li class="title"><a href="#course6">Physical Chemistry II </a></li>
    <li class="title"><a href="#course7">Computational Quantum Mechanics of Molecular and Extended Systems </a></li>
+    <li class="title"><a href="#course8">Kinetics of Chemical Reactions </a></li>
 </ul>
 </br>
 
@@ -576,6 +577,35 @@ caption for summary.">
 </table>
 
 </br>
+
+<h2 id ="course8">Kinetics of Chemical Reactions </h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<tbody>
+<tr class="row">
+<td headers="col2"><em>Elementary Kinetics<br /></em><br />Introduction<br /><br />Elementary Steps, Steady State Approximation, Transform Methods<br /><br />Numerical Solution of Differential Equations<br /><br />Use of CHEMKIN&reg;&nbsp;and Similar Software<br /><br />Equilibrium<br /><br />Literature Sources of Thermo, Kinetics</td>
+<td headers="col3">Numerical Solution to Kinetic Equations (<a href="num_kin_eq1.pdf" data-smd-id="s106">PDF 1</a>) (<a href="num_kin_mod2.pdf" data-smd-id="s107">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Reaction Rate Theory<br /></em><br />Potential Energy Surfaces<br /><br />Intro to Quantum Chemistry<br /><br />Reaction Paths<br /><br />Transition State Theory<br /><br />RRKM Theory<br /><br />Relation to Quantum Scattering<br /><br />Pressure Dependence: Fall-off, Chemical-activation</td>
+<td headers="col3">A Short Summary of Quantum Chemistry (<a href="qchemsummary.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Heterogeneous Reactions</td>
+<td headers="col3">Catalysis Notes (<a href="catalysis.pdf" data-smd-id="s109">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Handling Large Kinetic Models<br /></em><br />Sensitivity Analysis, Uncertainty Propagation<br /><br />Kinetic Model Reduction<br /><br />Range of Validity of Kinetic Models<br /><br />Computer Construction of Chemical Kinetic Models<br /><br />Example: Atmospheric Chemistry Models</td>
+<td headers="col3">Kinetic Model Completeness (<a href="sensitivity.pdf" data-smd-id="s110">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
 
 
 
