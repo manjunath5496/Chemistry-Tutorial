@@ -13,6 +13,7 @@
    <li class="title"><a href="#course12">Small-Molecule Spectroscopy and Dynamics </a></li>
   <li class="title"><a href="#course13">Chemistry of Biomolecules I </a></li>
    <li class="title"><a href="#course14">Synthetic Organic Chemistry II</a></li>
+  <li class="title"><a href="#course15">Organic Structure Determination</a></li>
 </ul>
 </br>
 
@@ -1054,5 +1055,40 @@ caption for summary.">
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course15">Organic Structure Determination </h2>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>Lecture 1 (<a href="5_46_l01.pdf" data-smd-id="s104">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fundamental methods</td>
+<td>
+<p>Lecture 2 (<a href="5_46_l02.pdf" data-smd-id="s105">PDF</a>)</p>
+<p>Lecture 2 handout (<a href="l02_handout.pdf" data-smd-id="s106">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>2D-NMR</td>
+<td>Lecture 3 (<a href="5_46_l03.pdf" data-smd-id="s107">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Exam prep</td>
+<td>Exam prep (<a href="exam_prep.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
 
 
