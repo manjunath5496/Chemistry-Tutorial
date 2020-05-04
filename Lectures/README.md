@@ -11,6 +11,7 @@
   <li class="title"><a href="#course10">Introductory Quantum Mechanics I </a></li>
   <li class="title"><a href="#course11">Introductory Quantum Mechanics II </a></li>
    <li class="title"><a href="#course12">Small-Molecule Spectroscopy and Dynamics </a></li>
+  <li class="title"><a href="#course13">Chemistry of Biomolecules I </a></li>
 </ul>
 </br>
 
@@ -942,4 +943,33 @@ caption for summary.">
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course13">Chemistry of Biomolecules I </h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Natural Product Biosynthesis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="/04peptidehandout.pdf">PDF - 2.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Polyketide Biosynthesis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="/09_lecture.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Saccharide Biosynthesis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="/11_saccharide.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Shikimate Pathway (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="/12_shikimate.pdf">PDF</a>)<br /><br />Shikimate Pathway Flavonoids (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="/14_flavonoid.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Alkaloid Biosynthesis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="/16_purine.pdf">PDF</a>)<br /><br />Alkaloid Bioynthesis: Tyrosine Derivatives (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="/17_tyrosine.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Terpene Biosynthesis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="/19_terpene.pdf">PDF 1</a>) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="/21_terpene2.pdf">PDF 2</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
