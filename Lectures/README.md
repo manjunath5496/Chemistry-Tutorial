@@ -15,6 +15,7 @@
    <li class="title"><a href="#course14">Synthetic Organic Chemistry II</a></li>
   <li class="title"><a href="#course15">Organic Structure Determination</a></li>
    <li class="title"><a href="#course16">Thermodynamics of Biomolecular Systems</a></li>
+   <li class="title"><a href="#course17">Advanced Organic Chemistry</a></li>
 </ul>
 </br>
 
@@ -1181,5 +1182,40 @@ caption for summary.">
 </table>
 
 </br>
+
+<h2 id ="course17">Advanced Organic Chemistry</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Stereochemistry</td>
+<td>Lecture 1 handout (<a href="01_handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Elucidating reaction mechanisms</td>
+<td>
+<p>Lecture 5 handout (<a href="05_handout.pdf">PDF</a>)</p>
+<p>Topic outline 1 (<a href="05_part1_outline.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Elucidating reaction mechanisms (cont.)</td>
+<td>Practice exam 1 (<a href="practiceexam1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Free radical reactions</td>
+<td>Topic outline 2 (<a href="08_part2_outline.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Free radical reactions (cont.)</td>
+<td>Lecture 11 handout (<a href="11_handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl882id0_1">Carbenes</td>
+<td headers="tbl882id0_2">Practice exam 2 (<a href="practiceexam2.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
 
 
