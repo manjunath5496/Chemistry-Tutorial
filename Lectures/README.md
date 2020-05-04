@@ -509,9 +509,73 @@
 </br>
 <h2 id ="course7">Computational Quantum Mechanics of Molecular and Extended Systems  </h2>
 
+<table class="tablewidth50" summary="See table 
+caption for summary.">
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction, Textbook and Notes, Many Body Schr&ouml;dinger Equation, Density Functional Theory, Examples and Inspiration (<a href="Lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Electronic Spin, Spin Orbitals, Molecular Orbital Theory, Valence Bond Theory (<a href="Lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Hartree-Fock Theory, Matrix Manipulations (<a href="Lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Mathematical Underpinnings, Dirac Notation, G03 Calculations (<a href="Lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Solution of Hartree-Fock Equations, Variational Principle, Mean Field Theory (<a href="Lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Solution of H-F Equations (cont.), Meaning of Eigenvalues, Basis Sets Introduction (<a href="Lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Gaussian Basis Sets (<a href="Lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Correlation, CI, MP Perturbation Theories (<a href="Lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Density Functional Theory (DFT) - Introduction (<a href="Lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">DFT: Solution of Kohn-Sham Equations and Exchange-Correlation Functionals (<a href="Lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Coupled-Cluster Theories, QCISD, G1, G2 (<a href="Lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">G1, G2 (cont.), Comparison, NCSA Teams, Projects (<a href="Lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Plane-wave Pseudopotential Method (PWPP) (<a href="Lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Car-Parrinello Molecular Dynamics - Method (<a href="Lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Running the Car-Parrinello Code (<a href="Lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Car-Parrinello Molecular Dynamics - Applications (<a href="Lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Embedding, Reaction Field Methods, Solvation, Combined QM/MM (<a href="Lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Exploring Complex Free Energy Landscapes - Reactivity (<a href="Lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Computing Reaction Rate Constants (<a href="Lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Design of Selective, Sulfur Resistant, Oxidation Automotive Catalysts (Presented by Course Teaching Assistant) (<a href="lec24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
-
-
+</br>
 
 
 
