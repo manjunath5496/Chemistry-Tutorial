@@ -7,6 +7,7 @@
   <li class="title"><a href="#course6">Physical Chemistry II </a></li>
    <li class="title"><a href="#course7">Computational Quantum Mechanics of Molecular and Extended Systems </a></li>
     <li class="title"><a href="#course8">Kinetics of Chemical Reactions </a></li>
+ <li class="title"><a href="#course9">Non-Equilibrium Statistical Mechanics </a></li>
 </ul>
 </br>
 
@@ -603,7 +604,7 @@ caption for summary.">
 
 </br>
 
-
+<h2 id ="course9">Non-Equilibrium Statistical Mechanics</h2>
 
 
 
