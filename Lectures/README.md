@@ -25,6 +25,7 @@
     <li class="title"><a href="#course24">Biological Engineering Design</a></li>
    <li class="title"><a href="#course25">Biological Chemistry I</a></li>
    <li class="title"><a href="#course26">Biological Chemistry II</a></li>
+   <li class="title"><a href="#course27">Thermodynamics and Kinetics</a></li>
 </ul>
 </br>
 
@@ -1677,10 +1678,152 @@ caption for summary.">
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course27">Thermodynamics and Kinetics </h2>
 
-
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>State of a system, 0<sup>th</sup>&nbsp;law, equation of state</td>
+<td>(<a href="5_60_lecture1.pdf" data-smd-id="s104">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Work, heat, first law</td>
+<td>(<a href="5_60_lecture2.pdf" data-smd-id="s105">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Internal energy, expansion work</td>
+<td>(<a href="5_60_lecture3.pdf" data-smd-id="s106">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Enthalpy</td>
+<td>(<a href="5_60_lecture4.pdf" data-smd-id="s107">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Adiabatic changes</td>
+<td>(<a href="5_60_lecture5.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Thermochemistry</td>
+<td>(<a href="5_60_lecture6.pdf" data-smd-id="s109">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Calorimetry</td>
+<td>(<a href="5_60_lecture7.pdf" data-smd-id="s110">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Second law</td>
+<td>(<a href="5_60_lecture8_9.pdf" data-smd-id="s111">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Entropy and the Clausius inequality</td>
+<td>(<a href="5_60_lecture9.pdf" data-smd-id="s112">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Entropy and irreversibility</td>
+<td>(<a href="5_60_lecture10.pdf" data-smd-id="s113">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fundamental equation, absolute S, third law</td>
+<td>(<a href="5_60_lecture11.pdf" data-smd-id="s114">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Criteria for spontaneous change</td>
+<td>(<a href="5_60_lecture12.pdf" data-smd-id="s115">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gibbs free energy</td>
+<td>(<a href="5_60_lecture13.pdf" data-smd-id="s116">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Multicomponent systems, chemical potential</td>
+<td>(<a href="5_60_lecture14.pdf" data-smd-id="s117">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Chemical equilibrium</td>
+<td>(<a href="5_60_lecture15.pdf" data-smd-id="s118">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Temperature, pressure and K<sub>p</sub></td>
+<td>(<a href="5_60_lecture16.pdf" data-smd-id="s119">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Equilibrium: application to drug design</td>
+<td>(<a href="5_60_lecture17.pdf" data-smd-id="s120">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Phase equilibria &mdash; one component</td>
+<td>(<a href="5_60_lecture18.pdf" data-smd-id="s121">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Clausius-Clapeyron equation</td>
+<td>(<a href="5_60_lecture19.pdf" data-smd-id="s122">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Phase equilibria &mdash; two components</td>
+<td>(<a href="5_60_lecture20.pdf" data-smd-id="s123">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Ideal solutions</td>
+<td>(<a href="5_60_lecture21.pdf" data-smd-id="s124">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Non-ideal solutions</td>
+<td>(<a href="5_60_lecture22.pdf" data-smd-id="s125">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Colligative properties</td>
+<td>(<a href="5_60_lecture23.pdf" data-smd-id="s126">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to statistical mechanics</td>
+<td>(<a href="5_60_lecture24.pdf" data-smd-id="s127">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Partition function (q) &mdash; large N limit</td>
+<td>(<a href="5_60_lecture25.pdf" data-smd-id="s128">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Partition function (Q) &mdash; many particles</td>
+<td rowspan="2">(<a href="5_60_lect26_27.pdf" data-smd-id="s129">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Statistical mechanics and discrete energy levels</td>
+</tr>
+<tr class="row">
+<td>Model systems</td>
+<td>(<a href="5_60_lecture28.pdf" data-smd-id="s130">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Applications: chemical and phase equilibria</td>
+<td>(<a href="5_60_lecture29.pdf" data-smd-id="s131">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to reaction kinetics</td>
+<td>(<a href="5_60_lecture30.pdf" data-smd-id="s132">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Complex reactions and mechanisms</td>
+<td>(<a href="5_60_lecture31.pdf" data-smd-id="s133">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Steady-state and equilibrium approximations</td>
+<td>(<a href="5_60_lecture32.pdf" data-smd-id="s134">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Chain reactions</td>
+<td>(<a href="5_60_lecture33.pdf" data-smd-id="s135">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Temperature dependence, E<sub>a</sub>, catalysis</td>
+<td>(<a href="5_60_lecture34.pdf" data-smd-id="s136">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Enzyme catalysis</td>
+<td>(<a href="5_60_lecture35.pdf" data-smd-id="s137">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
