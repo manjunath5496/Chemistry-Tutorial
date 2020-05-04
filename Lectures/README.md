@@ -20,6 +20,9 @@
  <li class="title"><a href="#course19">Introduction to Experimental Chemistry</a></li>
   <li class="title"><a href="#course20">Biochemistry Laboratory</a></li>
    <li class="title"><a href="#course21">Organic Chemistry II</a></li>
+    <li class="title"><a href="#course22">Organic Chemistry I</a></li>
+ 
+ 
 </ul>
 </br>
 
@@ -1380,3 +1383,71 @@ caption for summary.">
 </tbody>
 </table>
 </br>
+<h2 id ="course22">Organic Chemistry I </h2>
+
+<div class="maintabletemplate">
+<table summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>General Class Information. Review of Lewis Bonding Theory</td>
+<td>(<a href="01.pdf" data-smd-id="s104">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Review of Molecular Orbital Theory, Hybridization/LCAO</td>
+<td>(<a href="03.pdf" data-smd-id="s105">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Acidity</td>
+<td>(<a href="04.pdf" data-smd-id="s106">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Bond Lengths and Strengths/Alkanes</td>
+<td>(<a href="05.pdf" data-smd-id="s107">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stereochemistry</td>
+<td>(<a href="06.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Free Radical Reactions: Thermo/Kinetics</td>
+<td>(<a href="07.pdf" data-smd-id="s109">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Free Radical Reactions: Thermo/Kinetics</td>
+<td>(<a href="08.pdf" data-smd-id="s110">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Alkyl Halides/SN2</td>
+<td>(<a href="09.pdf" data-smd-id="s111">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 class="subhead">&nbsp;</h2>
+<div class="maintabletemplate">
+<table summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>The Alkene Double Bond: A Focus of Reactivity.<br />Polar and Concerted Addition Reactions. Hydrogenation, Addition of HX (Markovnikov Addition), Halogenation. Epoxidation, Hydroboration (Anti-Markovnikov Addition), Osmylation and Ozonolysis. Alkene Polymerization.</td>
+<td>(<a href="10.pdf" data-smd-id="s112">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>ALKYNES: Structure and Bonding.<br />Introduction to the Alkyne Triple Bond.<br /><br />ALKYNES: Synthesis and Reactions. Alkylation of Acetylide Anions (A Carbon Nucleophile). Addition Reactions to Alkynes, Hydrogenation, Halogenation and HX. Hydration of Alkynes, Tautomerization.</td>
+<td>(<a href="11.pdf" data-smd-id="s113">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>ALCOHOLS: Structure, Synthesis and Reactions. Structure and Bonding. Acidity (brief review)Synthesis of Alcohols (methods to date and new strategies). Organometallic Reagents, Reactivity and Basicity. Reaction of Carbonyl Compounds with Grignard and Organolithium Reagents. REDOX Relationships amongst Alcohols, Aldehydes and Ketones and Carboxylic acids. Alcohols as Nucleophiles (Formation of Alkoxides) and Electrophiles (Formation of Osylates). Esterification.</td>
+<td>(<a href="12.pdf" data-smd-id="s114">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>AROMATIC COMPOUNDS: Structure and Reactions.<br />2, 3, and 4 Pi Electron Systems. Benzene - The Prototypic Aromatic System. What is "Aromaticity"? Huckel's Rule. Identifying Aromatic Systems. Charged and Neutral Species. Polycyclics and Heterocyclic. Reaction Chemistry of Aromatic Compounds - Electrophilic Aromatic Substitution: Halogenation, Nitration, Sulfonylation and Friedel-Crafts Alkylation and Acylation.</td>
+<td>(<a href="13.pdf" data-smd-id="s115">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Directing Effects in Electophilic Aromatic Substitution. Nucleophilic Aromatic Substitution. Strategies in the Synthesis of Multisubstituted Benzene Derivatives.<br /><br />CARBONYL COMPOUNDS: Summary of Various Types of Carbonyl Compounds - Aldehydes and Ketones, Carboxylic Acids and Carboxylic Acid Derivatives (Acid Chlorides, Acid Anhydrides, Esters and Amides).</td>
+<td>(<a href="14.pdf" data-smd-id="s116">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</div>
+
