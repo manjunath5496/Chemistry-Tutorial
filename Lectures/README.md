@@ -12,6 +12,7 @@
   <li class="title"><a href="#course11">Introductory Quantum Mechanics II </a></li>
    <li class="title"><a href="#course12">Small-Molecule Spectroscopy and Dynamics </a></li>
   <li class="title"><a href="#course13">Chemistry of Biomolecules I </a></li>
+   <li class="title"><a href="#course14">Synthetic Organic Chemistry II</a></li>
 </ul>
 </br>
 
@@ -970,3 +971,9 @@ caption for summary.">
 </tbody>
 </table>
 </br>
+<h2 id ="course14">Synthetic Organic Chemistry II </h2>
+
+
+
+
+
