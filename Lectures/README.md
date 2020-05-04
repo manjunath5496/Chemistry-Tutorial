@@ -21,7 +21,7 @@
   <li class="title"><a href="#course20">Biochemistry Laboratory</a></li>
    <li class="title"><a href="#course21">Organic Chemistry II</a></li>
     <li class="title"><a href="#course22">Organic Chemistry I</a></li>
- 
+     <li class="title"><a href="#course23">Advanced Chemical Experimentation and Instrumentation</a></li>
  
 </ul>
 </br>
@@ -1450,4 +1450,38 @@ caption for summary.">
 </tbody>
 </table>
 </div>
+</br>
+<h2 id ="course23">Advanced Chemical Experimentation and Instrumentation </h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Introduction to spectroscopy (<a href="introspec.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Classical model of spectroscopy (<a href="classicalspec.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Time and frequency-domain spectroscopy (<a href="timefreqspec.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Principles for describing molecular spectroscopy (<a href="molecspec.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Electronic spectroscopy (<a href="elecspec.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Vibrational-rotational spectroscopy (<a href="vibrotspec.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Nitrogen scission with Molybdenum complex (<a href="n2lect.pdf">PDF - 1.1 MB</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Magnetic resonance spectroscopy (<a href="magresspec.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+
+
 
