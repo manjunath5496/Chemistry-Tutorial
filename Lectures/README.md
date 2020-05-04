@@ -344,7 +344,7 @@
 </div>
 <p>&nbsp;</p>
 
-<h2 id ="course7">Physical Chemistry II </h2>
+<h2 id ="course6">Physical Chemistry II </h2>
 
 
 
