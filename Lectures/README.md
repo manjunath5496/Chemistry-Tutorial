@@ -10,6 +10,7 @@
  <li class="title"><a href="#course9">Non-Equilibrium Statistical Mechanics </a></li>
   <li class="title"><a href="#course10">Introductory Quantum Mechanics I </a></li>
   <li class="title"><a href="#course11">Introductory Quantum Mechanics II </a></li>
+   <li class="title"><a href="#course12">Small-Molecule Spectroscopy and Dynamics </a></li>
 </ul>
 </br>
 
@@ -736,7 +737,209 @@ caption for summary.">
 </tbody>
 </table>
 </br>
+<h2 id ="course12">Small-Molecule Spectroscopy and Dynamics </h2>
 
-
-
+<table class="tablewidth2" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>General information</td>
+<td>(<a href="00_580ln_08.pdf" data-smd-id="s105">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Matrices are useful in spectroscopic theory</td>
+<td>(<a href="01_090308_580.pdf" data-smd-id="s106">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Spectroscopic notation, good quantum numbers, perturbation theory and secular equations, non-orthonormal basis sets, transformation of matrix elements of any operator into perturbed basis set</td>
+<td>(<a href="01s_transmxel.pdf" data-smd-id="s107">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Coupled harmonic oscillators: truncation of an infinite matrix</td>
+<td>(<a href="02_580ln_08.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Matrix solution of harmonic oscillator problem, derivation of heisenberg equation of motion, matrix elements of any function of X and P</td>
+<td>(<a href="02s_mtxsol.pdf" data-smd-id="s109">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Building an effective hamiltonian</td>
+<td>(<a href="03_580ln_fa08.pdf" data-smd-id="s110">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Anharmonic oscillator, vibration-rotation interaction, energy levels of a vibrating rotor</td>
+<td>(<a href="03s_anoscvibrot.pdf" data-smd-id="s111">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Atoms: 1e- and alkali</td>
+<td>(<a href="04_580ln_fa08.pdf" data-smd-id="s112">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Alkali and many e- atomic spectra</td>
+<td>(<a href="05_580ln_fa08.pdf" data-smd-id="s113">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Many e- atoms</td>
+<td>(<a href="06_580ln_fa08.pdf" data-smd-id="s114">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>How to assign an atomic spectrum</td>
+<td>(<a href="07_580ln_fa08.pdf" data-smd-id="s115">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Born-Oppenheimer approximation</td>
+<td>(<a href="08_580ln_576.pdf" data-smd-id="s116">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Excerpts from the spectra and dynamics of diatomic molecules</td>
+<td>(<a href="08s_elecconfigs.pdf" data-smd-id="s117">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>The Born-Oppenheimer approach to transitions</td>
+<td>(<a href="09_580ln_fa08.pdf" data-smd-id="s120">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Born-Oppenheimer approach to transitions II</td>
+<td>(<a href="10_580ln_fa08.pdf" data-smd-id="s121">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pictures of spectra and notation</td>
+<td>(<a href="11_580ln_fa08.pdf" data-smd-id="s122">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Rotational assignment of diatomic electronic spectra I</td>
+<td>(<a href="12_580ln_fa08.pdf" data-smd-id="s123">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Laser schemes for rotational assignment first lines for &Omega;', &Omega;" assignments</td>
+<td>(<a href="13_580ln_fa08.pdf" data-smd-id="s124">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Definition of angular momenta and | A &alpha; M<sub>A</sub>&nbsp;&gt;</p>
+<p>Evaluation of&nbsp;<img src="lec14image.jpg" alt="the rotational Hamiltonian" align="absBottom" border="0" data-smd-id="s125" /></p>
+</td>
+<td>(<a href="14_580ln_fa08.pdf" data-smd-id="s126">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Rotation and angular momenta</td>
+<td>(<a href="14s_rotatangmom.pdf" data-smd-id="s127">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><sup>2</sup>&prod; and&nbsp;<sup>2</sup>&sum; matrices</td>
+<td>(<a href="15_580ln_fa08.pdf" data-smd-id="s128">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Parity and e/f basis for&nbsp;<sup>2</sup>&prod;,&nbsp;<sup>2</sup>&sum;<sup>&plusmn;</sup></td>
+<td>(<a href="16_580ln_fa08.pdf" data-smd-id="s129">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Hund's cases:&nbsp;<sup>2</sup>&prod;,&nbsp;<sup>2</sup>&sum;<sup>&plusmn;</sup>&nbsp;examples</td>
+<td>(<a href="17_580ln_fa08.pdf" data-smd-id="s130">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Energy level structure of&nbsp;<sup>2</sup>&prod; and&nbsp;<sup>2</sup>&sum; states, matrix elements for&nbsp;<sup>2</sup>&prod; and&nbsp;<sup>2</sup>&sum; including &prod; ~ &sum; perturbation, parity</td>
+<td>(<a href="17s_engylvlstrct.pdf" data-smd-id="s131">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Perturbations</td>
+<td>(<a href="18_580ln_fa08.pdf" data-smd-id="s132">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>A model for the perturbations and fine structure of the &prod; states of CO, factorization of perturbation parameters, the electronic perturbation parameters</td>
+<td>(<a href="18s_analpertb.pdf" data-smd-id="s133">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Second-order effects</td>
+<td>(<a href="19_580ln_fa08.pdf" data-smd-id="s134">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Second-order effects: centrifugal distortion and &Lambda;-doubling</td>
+<td>(<a href="19s_secndordreff.pdf" data-smd-id="s135">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Transformations between basis sets: 3-j, 6-j, and Wigner-Eckart theorem</td>
+<td>(<a href="20_580ln_fa08.pdf" data-smd-id="s136">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Construction of potential curves by the Rydberg-Klein-Rees method (RKR)</td>
+<td>(<a href="21_580ln_fa08.pdf" data-smd-id="s137">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Rotation of polyatomic molecules I</td>
+<td>(<a href="22_580ln_fa08.pdf" data-smd-id="s138">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Energy levels of a rigid rotor, energy levels of an asymmetric rotor</td>
+<td>(<a href="22s_580ln_fa08.pdf" data-smd-id="s139">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Asymmetric top</td>
+<td>(<a href="23_580ln_fa08.pdf" data-smd-id="s140">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Energy levels of a rigid rotor, energy levels of an asymmetric rotor</td>
+<td>(<a href="23s_580ln_fa08.pdf" data-smd-id="s141">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Pure rotation spectra of polyatomic molecules</td>
+<td>(<a href="24_580ln_fa08.pdf" data-smd-id="s142">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Energy levels of a rigid rotor</td>
+<td>(<a href="24s_580ln_fa08.pdf" data-smd-id="s143">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Polyatomic vibrations: normal mode calculations</td>
+<td>(<a href="25_580ln_fa08.pdf" data-smd-id="s144">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Polyatomic vibrations II: s-vectors, G-matrix, and Eckart condition</td>
+<td>(<a href="26_580ln_fa08.pdf" data-smd-id="s145">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Polyatomic vibrations III: s-vectors and H<sub>2</sub>O</td>
+<td>(<a href="27_580ln_fa08.pdf" data-smd-id="s146">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Polyatomic vibrations IV: symmetry</td>
+<td>(<a href="28_580ln_fa08.pdf" data-smd-id="s147">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>A sprint through group theory</td>
+<td>(<a href="29_580ln_fa08.pdf" data-smd-id="s148">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>What is in a character table and how do we use it?</td>
+<td>(<a href="30_580ln_fa08.pdf" data-smd-id="s149">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Electronic spectra of polyatomic molecules</td>
+<td>(<a href="31_580ln_fa08.pdf" data-smd-id="s150">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The&nbsp;<img src="lec32image.jpg" alt="H2CO (A1A2 from X1A1)" align="absBottom" border="0" data-smd-id="s151" />&nbsp;transition</td>
+<td>(<a href="32_580ln_fa08.pdf" data-smd-id="s152">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vibronic coupling</td>
+<td>(<a href="33_580ln_fa08.pdf" data-smd-id="s153">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Time-independent Schrodinger equation for a molecular system</td>
+<td>(<a href="33s_580ln_fa08.pdf" data-smd-id="s154">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Wavepacket dynamics</td>
+<td>(<a href="34_580ln_fa08.pdf" data-smd-id="s155">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wavepacket dynamics II</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Wavepacket dynamics III</td>
+<td>(<a href="36_580ln_fa08.pdf" data-smd-id="s156">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
