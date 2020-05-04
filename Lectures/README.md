@@ -19,6 +19,7 @@
     <li class="title"><a href="#course18">Introduction to Organic Synthesis Laboratory</a></li>
  <li class="title"><a href="#course19">Introduction to Experimental Chemistry</a></li>
   <li class="title"><a href="#course20">Biochemistry Laboratory</a></li>
+   <li class="title"><a href="#course21">Organic Chemistry II</a></li>
 </ul>
 </br>
 
@@ -1314,3 +1315,68 @@ caption for summary.">
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course21">Organic Chemistry II </h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Molecular Formula and Index of Hydrogen Deficiency [EA] (<a href="unit_1_study.pdf" data-smd-id="s105">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Functional Groups: Fragmentation&nbsp;[MS] (<a href="04_lec_handout.pdf" data-smd-id="s106">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Functional Groups [<sup>13</sup>C NMR] (<a href="05_lec_5_2006.pdf" data-smd-id="s107">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Connectivity [<sup>1</sup>H NMR] (<a href="06_lec_6_7_2006.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Connectivity (cont.) [<sup>1</sup>&nbsp;H NMR] (<a href="07_lec_7_2006.pdf" data-smd-id="s109">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Organic Structure Elucidation (<a href="08_lec_8_06_ans.pdf" data-smd-id="s110">PDF</a>)</p>
+<p>Answers (<a href="08_lec_8_06_ans.pdf" data-smd-id="s111">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Organic Structure Elucidation (cont.) (<a href="09_lec_9_2006.pdf" data-smd-id="s112">PDF</a>)</p>
+<p>Answers (<a href="09_lec_9_ans_06.pdf" data-smd-id="s113">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Ethers, Epoxides, and Sulfides (<a href="unit_2_study.pdf" data-smd-id="s114">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conjugated Systems and Molecular Orbital Theory (<a href="12_lec_12_2006.pdf" data-smd-id="s115">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conjugated Systems and Molecular Orbital Theory (cont.) (<a href="unit_3_study.pdf" data-smd-id="s116">PDF 1</a>) (<a href="13_lec_13_14_06.pdf" data-smd-id="s117">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pericyclic Reactions - Electrocyclic Processes (<a href="lec_15_16_17_06.pdf" data-smd-id="s118">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pericyclic Reactions - Cycloadditions, Sigmatropic Rearrangements (<a href="17_lec_17_18_06.pdf" data-smd-id="s119">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Amines (<a href="19_lec_19_20_06.pdf" data-smd-id="s120">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Carboxylic Acids and Derivatives (<a href="lec_21_22_23_24.pdf" data-smd-id="s121">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Enols and Enolates (<a href="lec_25_26_27_28.pdf" data-smd-id="s122">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Carbocations (<a href="lec_29_30_31_32.pdf" data-smd-id="s123">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Radicals (<a href="lectures_33_34.pdf" data-smd-id="s124">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
