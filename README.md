@@ -3121,6 +3121,7 @@ Bioinorganic Chemistry: A Short Course</a></li>
 <ul>
 <li><a href="https://manjunath5496.github.io/chemistry-quiz/index.html">Chemistry Quiz</a></li>
  <li><a href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/Lectures/README.md">MIT Lecture Notes</a></li>
+  <li><a href="1.md">Chemistry Portal</a></li>
 </ul>
 
 </br>
