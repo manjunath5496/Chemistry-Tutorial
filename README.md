@@ -2874,6 +2874,7 @@
 <li><a title="List of thermal conductivities" href="https://en.wikipedia.org/wiki/List_of_thermal_conductivities">List of thermal conductivities</a></li>
 <li><a title="List of purification methods in chemistry" href="https://en.wikipedia.org/wiki/List_of_purification_methods_in_chemistry">List of purification methods in chemistry</a></li>
 <li><a title="List of unsolved problems in chemistry" href="https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_chemistry">List of unsolved problems in chemistry</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/README.md" style="text-decoration:none;">Chemistry Textbooks</a></li>      
 </ul>
 
 </br>
